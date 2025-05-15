@@ -4,7 +4,7 @@ import { writeFile } from 'fs/promises';
 const URL = 'https://pelotalibretv.com/agenda.html';
 
 (async () => {
-  const browser = await puppeteer.launch({ headless: 'new' });
+  const browser = await puppeteer.launch({ args: ['--no-sandbox', '--disable-setuid-sandbox'] });
   const page = await browser.newPage();
   await page.goto(URL, { waitUntil: 'networkidle2' });
 
