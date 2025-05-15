@@ -1,31 +1,31 @@
-import axios from 'axios';
-import cheerio from 'cheerio';
-import fs from 'fs';
+// Usa CommonJS en lugar de ES Modules
+const cheerio = require('cheerio');
+const fs = require('fs');
+const https = require('https');
 
-async function scrapeAgenda() {
-  const url = 'https://pelotalibretv.com/agenda.html';
+const url = 'https://pelotalibretv.com/agenda.html';
 
-  try {
-    const { data } = await axios.get(url);
+https.get(url, (res) => {
+  let data = '';
+
+  res.on('data', chunk => data += chunk);
+  res.on('end', () => {
     const $ = cheerio.load(data);
     const eventos = [];
 
-    $('.event').each((i, el) => {
-      const hora = $(el).find('.hora').text().trim();
-      const partido = $(el).find('.partido').text().trim();
+    $('table tbody tr').each((i, el) => {
+      const hora = $(el).find('td').eq(0).text().trim();
+      const evento = $(el).find('td').eq(1).text().trim();
       const link = $(el).find('a').attr('href') || '';
 
-      if (hora && partido && link) {
-        eventos.push({ hora, partido, link });
+      if (hora && evento) {
+        eventos.push({ hora, evento, link });
       }
     });
 
     fs.writeFileSync('agenda.json', JSON.stringify(eventos, null, 2));
-    console.log('Agenda actualizada correctamente.');
-  } catch (error) {
-    console.error('Error al obtener la agenda:', error.message);
-    process.exit(1);
-  }
-}
-
-scrapeAgenda();
+    console.log('Agenda actualizada');
+  });
+}).on('error', err => {
+  console.error('Error al obtener la agenda:', err);
+});
