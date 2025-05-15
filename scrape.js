@@ -1,36 +1,48 @@
 import puppeteer from 'puppeteer';
-import fs from 'fs';
 
-const URL = 'https://pelotalibretv.com/agenda.html';
+const url = 'https://pelotalibretv.com/agenda.html';
 
-(async () => {
-  const browser = await puppeteer.launch({ args: ['--no-sandbox'], headless: "new" });
-  const page = await browser.newPage();
+const browser = await puppeteer.launch({
+  headless: 'new',
+  args: ['--no-sandbox', '--disable-setuid-sandbox']
+});
+const page = await browser.newPage();
+await page.goto(url, { waitUntil: 'networkidle2' });
 
-  try {
-    await page.goto(URL, { waitUntil: 'domcontentloaded', timeout: 60000 });
+await page.waitForSelector('li');
 
-    // Esperamos hasta que aparezca al menos una fila de la tabla
-    await page.waitForSelector('.table-responsive tbody tr', { timeout: 60000 });
+const events = await page.evaluate(() => {
+  const listItems = document.querySelectorAll('li');
+  const data = [];
 
-    const eventos = await page.evaluate(() => {
-      const filas = Array.from(document.querySelectorAll('.table-responsive tbody tr'));
-      return filas.map(fila => {
-        const columnas = fila.querySelectorAll('td');
-        return {
-          hora: columnas[0]?.innerText.trim(),
-          evento: columnas[1]?.innerText.trim(),
-          canal: columnas[2]?.innerText.trim(),
-          enlace: fila.querySelector('a')?.href || null
-        };
+  listItems.forEach((li) => {
+    const mainLink = li.querySelector(':scope > a');
+    const timeSpan = mainLink?.querySelector('.t');
+    const subLinks = li.querySelectorAll('ul li a');
+
+    if (mainLink && timeSpan && subLinks.length > 0) {
+      const category = li.className.trim();
+      const titleText = mainLink.innerText.replace(timeSpan.innerText, '').trim();
+      const time = timeSpan.innerText.trim();
+
+      const links = Array.from(subLinks).map(a => ({
+        label: a.innerText.trim(),
+        url: 'https://pelotalibretv.com' + a.getAttribute('href')
+      }));
+
+      data.push({
+        category,
+        title: titleText,
+        time,
+        links
       });
-    });
+    }
+  });
 
-    fs.writeFileSync('agenda.json', JSON.stringify(eventos, null, 2));
-    console.log('Agenda actualizada con éxito');
-  } catch (error) {
-    console.error('Error al extraer datos:', error);
-  } finally {
-    await browser.close();
-  }
-})();
+  return data;
+});
+
+import fs from 'fs';
+fs.writeFileSync('agenda.json', JSON.stringify(events, null, 2));
+
+await browser.close();
