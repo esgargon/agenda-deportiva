@@ -1,29 +1,30 @@
-const axios = require('axios');
-const cheerio = require('cheerio');
-const fs = require('fs');
+import axios from 'axios';
+import cheerio from 'cheerio';
+import fs from 'fs';
 
 async function scrapeAgenda() {
+  const url = 'https://pelotalibretv.com/agenda.html';
+
   try {
-    const url = 'https://pelotalibretv.com/agenda.html';
     const { data } = await axios.get(url);
     const $ = cheerio.load(data);
+    const eventos = [];
 
-    const events = [];
+    $('.event').each((i, el) => {
+      const hora = $(el).find('.hora').text().trim();
+      const partido = $(el).find('.partido').text().trim();
+      const link = $(el).find('a').attr('href') || '';
 
-    // Aquí debes cambiar estos selectores según la página real
-    $('.event-class').each((i, el) => {
-      const hora = $(el).find('.hora-class').text().trim();
-      const nombre = $(el).find('.nombre-class').text().trim();
-      const link = $(el).find('a').attr('href');
-      if (hora && nombre && link) {
-        events.push({ hora, nombre, link });
+      if (hora && partido && link) {
+        eventos.push({ hora, partido, link });
       }
     });
 
-    fs.writeFileSync('agenda.json', JSON.stringify(events, null, 2));
-    console.log('Agenda actualizada con éxito.');
+    fs.writeFileSync('agenda.json', JSON.stringify(eventos, null, 2));
+    console.log('Agenda actualizada correctamente.');
   } catch (error) {
-    console.error('Error al scrapear la agenda:', error.message);
+    console.error('Error al obtener la agenda:', error.message);
+    process.exit(1);
   }
 }
 
