@@ -1,25 +1,30 @@
 import puppeteer from 'puppeteer';
-import { writeFile } from 'fs/promises';
+import fs from 'fs';
 
 const URL = 'https://pelotalibretv.com/agenda.html';
 
 (async () => {
-  const browser = await puppeteer.launch({ args: ['--no-sandbox', '--disable-setuid-sandbox'] });
+  const browser = await puppeteer.launch({ args: ['--no-sandbox'], headless: true });
   const page = await browser.newPage();
-  await page.goto(URL, { waitUntil: 'networkidle2' });
 
-  const events = await page.evaluate(() => {
-    const data = [];
-    const items = document.querySelectorAll('.event-list .event');
-    items.forEach(item => {
-      const time = item.querySelector('.event-time')?.innerText || '';
-      const teams = item.querySelector('.event-title')?.innerText || '';
-      const link = item.querySelector('a')?.href || '';
-      data.push({ time, teams, link });
+  await page.goto(URL, { waitUntil: 'domcontentloaded' });
+
+  await page.waitForSelector('.table-responsive');
+
+  const eventos = await page.evaluate(() => {
+    const filas = Array.from(document.querySelectorAll('.table-responsive tbody tr'));
+    return filas.map(fila => {
+      const columnas = fila.querySelectorAll('td');
+      return {
+        hora: columnas[0]?.innerText.trim(),
+        evento: columnas[1]?.innerText.trim(),
+        canal: columnas[2]?.innerText.trim(),
+        enlace: fila.querySelector('a')?.href || null
+      };
     });
-    return data;
   });
 
-  await writeFile('agenda.json', JSON.stringify(events, null, 2));
   await browser.close();
+
+  fs.writeFileSync('agenda.json', JSON.stringify(eventos, null, 2));
 })();
