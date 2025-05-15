@@ -1,17 +1,1 @@
-[
-  {
-    "hora": "14:00",
-    "evento": "PSG vs Lyon",
-    "link": "https://example.com/psg-lyon.m3u8"
-  },
-  {
-    "hora": "16:00",
-    "evento": "Inter vs Milan",
-    "link": "https://example.com/inter-milan.m3u8"
-  },
-  {
-    "hora": "18:00",
-    "evento": "Selección Paraguay vs Brasil",
-    "link": "https://example.com/py-br.m3u8"
-  }
-]
+[]
