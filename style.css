@@ -1,0 +1,27 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 20px;
+}
+
+h1 {
+  color: #003992;
+}
+
+.evento {
+  padding: 8px;
+  border-bottom: 1px solid #ccc;
+}
+
+.hora {
+  font-weight: bold;
+  color: #FB8313;
+}
+
+a {
+  color: #003992;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
