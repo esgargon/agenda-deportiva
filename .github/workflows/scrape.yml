@@ -1,32 +1,36 @@
-name: Scrape Agenda
+name: Actualizar Agenda
 
 on:
   schedule:
-    - cron: '*/30 * * * *'  # Cada 30 minutos
+    - cron: '*/30 * * * *' # Cada 30 minutos
   workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
+
     steps:
-      - name: Checkout repo
+      - name: Clonar el repositorio
         uses: actions/checkout@v3
 
-      - name: Setup Node
+      - name: Instalar Node.js
         uses: actions/setup-node@v3
         with:
           node-version: '18'
 
-      - name: Install dependencies
-        run: npm install
+      - name: Instalar dependencias
+        run: npm install puppeteer
 
-      - name: Run scraper
+      - name: Ejecutar scraping
         run: node scrape.js
 
-      - name: Commit y push
+      - name: Configurar Git
         run: |
-          git config --global user.name "github-actions"
-          git config --global user.email "actions@github.com"
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+
+      - name: Confirmar y subir cambios
+        run: |
           git add agenda.json
-          git commit -m "Update agenda" || echo "No changes"
+          git commit -m "Actualizar agenda deportiva" || echo "No hay cambios"
           git push
