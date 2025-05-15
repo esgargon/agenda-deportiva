@@ -1,0 +1,33 @@
+name: Actualizar agenda automáticamente
+
+on:
+  schedule:
+    - cron: '0 3 * * *'  # Todos los días a las 3 AM UTC
+  workflow_dispatch:    # Para correr manualmente desde GitHub
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Clonar repo
+      uses: actions/checkout@v3
+
+    - name: Instalar Node.js
+      uses: actions/setup-node@v3
+      with:
+        node-version: '18'
+
+    - name: Instalar dependencias
+      run: npm install axios cheerio
+
+    - name: Ejecutar scraping
+      run: node scrape.js
+
+    - name: Commit y push si hubo cambios
+      run: |
+        git config --local user.email "tu-email@ejemplo.com"
+        git config --local user.name "Tu Nombre"
+        git add agenda.json
+        git diff --cached --quiet || git commit -m "Actualizar agenda automáticamente"
+        git push
