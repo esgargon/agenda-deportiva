@@ -1,27 +1,22 @@
 body {
   font-family: Arial, sans-serif;
-  margin: 20px;
-}
-
-h1 {
-  color: #003992;
+  background-color: #f4f4f4;
+  text-align: center;
+  padding: 20px;
 }
 
 .evento {
-  padding: 8px;
-  border-bottom: 1px solid #ccc;
-}
-
-.hora {
-  font-weight: bold;
-  color: #FB8313;
+  background-color: white;
+  border-radius: 8px;
+  margin: 10px auto;
+  padding: 15px;
+  max-width: 500px;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.1);
 }
 
 a {
-  color: #003992;
+  display: inline-block;
+  margin-top: 10px;
+  color: #007bff;
   text-decoration: none;
-}
-
-a:hover {
-  text-decoration: underline;
 }
