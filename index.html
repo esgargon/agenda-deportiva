@@ -1,76 +1,14 @@
-  <!DOCTYPE html>
-  <html lang="es">
-  <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Agenda Deportiva en Vivo</title>
-    <style>
-      body {
-        font-family: Arial, sans-serif;
-        background-color: #121212;
-        color: #fff;
-        padding: 20px;
-      }
-      h1 {
-        text-align: center;
-        color: #00ff88;
-      }
-      .evento {
-        background: #1f1f1f;
-        margin-bottom: 15px;
-        padding: 15px;
-        border-radius: 10px;
-      }
-      .evento h2 {
-        color: #ffb100;
-      }
-      .evento a {
-        color: #00ff88;
-        text-decoration: none;
-      }
-      .evento a:hover {
-        text-decoration: underline;
-      }
-    </style>
-  </head>
-  <body>
-    <h1>Agenda Deportiva en Vivo</h1>
-    <div id="agenda"></div>
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <title>Agenda Deportiva</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <h1>Agenda Deportiva Automática</h1>
+  <div id="agenda-container">Cargando agenda...</div>
 
-    <script>
-      const agenda = document.getElementById('agenda');
-
-      async function cargarEventos() {
-        try {
-          const eventos = [
-            {
-              titulo: "Boca Juniors vs River Plate",
-              hora: "18:00",
-              link: "https://pelotalibre.com/en-vivo/boca-vs-river"
-            },
-            {
-              titulo: "Real Madrid vs Barcelona",
-              hora: "20:00",
-              link: "https://pelotalibre.com/en-vivo/real-vs-barca"
-            }
-          ];
-
-          eventos.forEach(evento => {
-            const div = document.createElement('div');
-            div.className = 'evento';
-            div.innerHTML = `
-              <h2>${evento.titulo}</h2>
-              <p>Hora: ${evento.hora}</p>
-              <a href="${evento.link}" target="_blank">Ver en Vivo</a>
-            `;
-            agenda.appendChild(div);
-          });
-        } catch (err) {
-          agenda.innerHTML = '<p>Error al cargar la agenda.</p>';
-        }
-      }
-
-      cargarEventos();
-    </script>
-  </body>
-  </html>
+  <script src="agenda.js"></script>
+</body>
+</html>
