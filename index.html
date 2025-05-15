@@ -3,12 +3,73 @@
 <head>
   <meta charset="UTF-8">
   <title>Agenda Deportiva</title>
-  <link rel="stylesheet" href="style.css">
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f4f4f4;
+      padding: 20px;
+    }
+    .evento {
+      background-color: #fff;
+      padding: 15px;
+      margin-bottom: 15px;
+      border-radius: 8px;
+      box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    }
+    .evento h3 {
+      margin: 0 0 10px;
+      font-size: 18px;
+    }
+    .evento a {
+      display: inline-block;
+      margin-right: 10px;
+      text-decoration: none;
+      color: #007bff;
+    }
+    .evento a:hover {
+      text-decoration: underline;
+    }
+  </style>
 </head>
 <body>
-  <h1>Agenda Deportiva en Vivo</h1>
-  <div id="agenda">Cargando agenda...</div>
+  <h1>Agenda Deportiva</h1>
+  <div id="agenda"></div>
 
-  <script src="agenda.js"></script>
+  <script>
+    fetch('agenda.json')
+      .then(response => response.json())
+      .then(data => {
+        const contenedor = document.getElementById('agenda');
+
+        if (data.length === 0) {
+          contenedor.innerHTML = '<p>No hay eventos disponibles en este momento.</p>';
+          return;
+        }
+
+        data.forEach(evento => {
+          const div = document.createElement('div');
+          div.className = 'evento';
+
+          // Título y hora del evento
+          div.innerHTML = `<h3>${evento.title} - ${evento.time}</h3>`;
+
+          // Enlaces para ver el evento en vivo
+          if (evento.links && evento.links.length > 0) {
+            evento.links.forEach(link => {
+              const a = document.createElement('a');
+              a.href = link.url;
+              a.target = '_blank';
+              a.textContent = link.label;
+              div.appendChild(a);
+            });
+          }
+
+          contenedor.appendChild(div);
+        });
+      })
+      .catch(error => {
+        console.error('Error al cargar la agenda:', error);
+      });
+  </script>
 </body>
 </html>
