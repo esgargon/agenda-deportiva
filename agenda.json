@@ -1,30 +1,11 @@
 [
   {
-    "category": "NBA",
-    "title": "NBA: Minnesota Timberwolves vs Golden State Warriors",
-    "time": "01:30",
-    "links": [
-      {
-        "label": "NBA: Minnesota Timberwolves vs Golden State Warriors\n01:30",
-        "url": "https://pelotalibretv.com#"
-      },
-      {
-        "label": "NBACalidad 720p",
-        "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cDQuY29tL2dsb2JhbDEucGhwP3N0cmVhbT1uYmEy"
-      },
-      {
-        "label": "Disney+Calidad 720p",
-        "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cDQuY29tL2dsb2JhbDEucGhwP3N0cmVhbT1kaXNuZXkx"
-      }
-    ]
-  },
-  {
     "category": "NHL",
     "title": "NHL: Vegas Golden Knights vs Edmonton Oilers",
-    "time": "01:30",
+    "time": "03:30",
     "links": [
       {
-        "label": "NHL: Vegas Golden Knights vs Edmonton Oilers\n01:30",
+        "label": "NHL: Vegas Golden Knights vs Edmonton Oilers\n03:30",
         "url": "https://pelotalibretv.com#"
       },
       {
@@ -36,10 +17,10 @@
   {
     "category": "MLB",
     "title": "MLB: San Diego Padres vs Los Angeles Angels",
-    "time": "01:40",
+    "time": "03:40",
     "links": [
       {
-        "label": "MLB: San Diego Padres vs Los Angeles Angels\n01:40",
+        "label": "MLB: San Diego Padres vs Los Angeles Angels\n03:40",
         "url": "https://pelotalibretv.com#"
       },
       {
@@ -49,54 +30,12 @@
     ]
   },
   {
-    "category": "SUD",
-    "title": "Copa Sudamericana: América de Cali vs Huracán",
-    "time": "02:00",
-    "links": [
-      {
-        "label": "Copa Sudamericana: América de Cali vs Huracán\n02:00",
-        "url": "https://pelotalibretv.com#"
-      },
-      {
-        "label": "DsportsCalidad 720p",
-        "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cDQuY29tL2dsb2JhbDEucGhwP3N0cmVhbT1kc3BvcnRz"
-      }
-    ]
-  },
-  {
-    "category": "LIB",
-    "title": "Copa Libertadores: Universitario vs Barcelona",
-    "time": "02:00",
-    "links": [
-      {
-        "label": "Copa Libertadores: Universitario vs Barcelona\n02:00",
-        "url": "https://pelotalibretv.com#"
-      },
-      {
-        "label": "Fox Sports 3Calidad 720p",
-        "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cDQuY29tL2dsb2JhbDEucGhwP3N0cmVhbT1mb3gzYXI="
-      },
-      {
-        "label": "ESPN 1Calidad 720p",
-        "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cDQuY29tL2dsb2JhbDEucGhwP3N0cmVhbT1lc3Bu"
-      },
-      {
-        "label": "Disney+Calidad 720p",
-        "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cDQuY29tL2dsb2JhbDEucGhwP3N0cmVhbT1kaXNuZXkyMA=="
-      },
-      {
-        "label": "ESPN 2 BRCalidad 720p",
-        "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cDQuY29tL2dsb2JhbDEucGhwP3N0cmVhbT1lc3BuMmJy"
-      }
-    ]
-  },
-  {
     "category": "MLB",
     "title": "MLB: Los Angeles Dodgers vs Athletics",
-    "time": "02:10",
+    "time": "04:10",
     "links": [
       {
-        "label": "MLB: Los Angeles Dodgers vs Athletics\n02:10",
+        "label": "MLB: Los Angeles Dodgers vs Athletics\n04:10",
         "url": "https://pelotalibretv.com#"
       },
       {
@@ -106,27 +45,12 @@
     ]
   },
   {
-    "category": "USA",
-    "title": "League Soccer: SJ Earthquakes vs Inter Miami",
-    "time": "02:30",
-    "links": [
-      {
-        "label": "League Soccer: SJ Earthquakes vs Inter Miami\n02:30",
-        "url": "https://pelotalibretv.com#"
-      },
-      {
-        "label": "MLSCalidad 720p",
-        "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cDQuY29tL2dsb2JhbDEucGhwP3N0cmVhbT1tbHMxZXM="
-      }
-    ]
-  },
-  {
     "category": "MEX",
     "title": "Liga MX: Tigres UANL vs Toluca",
-    "time": "03:00",
+    "time": "05:00",
     "links": [
       {
-        "label": "Liga MX: Tigres UANL vs Toluca\n03:00",
+        "label": "Liga MX: Tigres UANL vs Toluca\n05:00",
         "url": "https://pelotalibretv.com#"
       },
       {
