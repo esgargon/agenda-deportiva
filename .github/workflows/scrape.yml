@@ -26,8 +26,8 @@ jobs:
 
     - name: Commit y push si hubo cambios
       run: |
-        git config --local user.email "tu-email@ejemplo.com"
-        git config --local user.name "Tu Nombre"
+        git config --local user.email "edgargonzalez18@gmail.com"
+        git config --local user.name "Edgar"
         git add agenda.json
         git diff --cached --quiet || git commit -m "Actualizar agenda automáticamente"
         git push
