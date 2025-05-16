@@ -15,59 +15,6 @@
     ]
   },
   {
-    "category": "SUD",
-    "title": "Copa Sudamericana: Once Caldas vs Gualberto Villarroel SJ",
-    "time": "02:00",
-    "links": [
-      {
-        "label": "Copa Sudamericana: Once Caldas vs Gualberto Villarroel SJ\n02:00",
-        "url": "https://pelotalibretv.com#"
-      },
-      {
-        "label": "Disney+Calidad 720p",
-        "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cDQuY29tL2dsb2JhbDEucGhwP3N0cmVhbT1kaXNuZXkxMg=="
-      },
-      {
-        "label": "ESPN 1Calidad 720p",
-        "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cDQuY29tL2dsb2JhbDEucGhwP3N0cmVhbT1lc3Bu"
-      }
-    ]
-  },
-  {
-    "category": "SUD",
-    "title": "Copa Sudamericana: Cienciano vs Deportes Iquique",
-    "time": "02:00",
-    "links": [
-      {
-        "label": "Copa Sudamericana: Cienciano vs Deportes Iquique\n02:00",
-        "url": "https://pelotalibretv.com#"
-      },
-      {
-        "label": "Dsports +Calidad 720p",
-        "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cDQuY29tL2dsb2JhbDEucGhwP3N0cmVhbT1kc3BvcnRzcGx1cw=="
-      }
-    ]
-  },
-  {
-    "category": "MEX",
-    "title": "Liga MX: Cruz Azul vs América",
-    "time": "02:00",
-    "links": [
-      {
-        "label": "Liga MX: Cruz Azul vs América\n02:00",
-        "url": "https://pelotalibretv.com#"
-      },
-      {
-        "label": "TUDN USACalidad 720p",
-        "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cDQuY29tL2dsb2JhbDEucGhwP3N0cmVhbT10dWRuX3VzYQ=="
-      },
-      {
-        "label": "Canal 5 MXCalidad 720p",
-        "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cDQuY29tL2dsb2JhbDEucGhwP3N0cmVhbT1jYW5hbDVteA=="
-      }
-    ]
-  },
-  {
     "category": "MLB",
     "title": "MLB: Los Angeles Dodgers vs Athletics",
     "time": "02:10",
