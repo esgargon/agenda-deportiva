@@ -1,50 +1,5 @@
 [
   {
-    "category": "MLB",
-    "title": "MLB: Chicago Cubs vs Chicago White Sox",
-    "time": "18:20",
-    "links": [
-      {
-        "label": "MLB: Chicago Cubs vs Chicago White Sox\n18:20",
-        "url": "https://pelotalibretv.com#"
-      },
-      {
-        "label": "MLBCalidad 720p",
-        "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cDQuY29tL2dsb2JhbDEucGhwP3N0cmVhbT1tbGIx"
-      }
-    ]
-  },
-  {
-    "category": "PY",
-    "title": "Primera División: Deportivo Recoleta vs Atlético Tembetary",
-    "time": "20:00",
-    "links": [
-      {
-        "label": "Primera División: Deportivo Recoleta vs Atlético Tembetary\n20:00",
-        "url": "https://pelotalibretv.com#"
-      },
-      {
-        "label": "Tigo SportsCalidad 720p",
-        "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cDQuY29tL2dsb2JhbDEucGhwP3N0cmVhbT1ldmVudG9zOQ=="
-      }
-    ]
-  },
-  {
-    "category": "PE",
-    "title": "Liga1: Alianza Atlético vs Deportivo Garcilaso",
-    "time": "20:30",
-    "links": [
-      {
-        "label": "Liga1: Alianza Atlético vs Deportivo Garcilaso\n20:30",
-        "url": "https://pelotalibretv.com#"
-      },
-      {
-        "label": "Liga1maxCalidad 720p",
-        "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cDQuY29tL2dsb2JhbDEucGhwP3N0cmVhbT1saWdhMW1heA=="
-      }
-    ]
-  },
-  {
     "category": "AR",
     "title": "Primera B Nacional: Nueva Chicago vs Defensores Unidos",
     "time": "21:10",
