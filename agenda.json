@@ -1,20 +1,5 @@
 [
   {
-    "category": "MLB",
-    "title": "MLB: Baltimore Orioles vs Washington Nationals",
-    "time": "20:00",
-    "links": [
-      {
-        "label": "MLB: Baltimore Orioles vs Washington Nationals\n20:00",
-        "url": "https://pelotalibretv.com#"
-      },
-      {
-        "label": "MLBCalidad 720p",
-        "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cDQuY29tL2dsb2JhbDEucGhwP3N0cmVhbT1tbGI0"
-      }
-    ]
-  },
-  {
     "category": "UFC",
     "title": "UFC: Gilbert Burns vs. Michael Morales | ESPN KO",
     "time": "20:00",
@@ -41,25 +26,6 @@
       {
         "label": "MLBCalidad 720p",
         "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cDQuY29tL2dsb2JhbDEucGhwP3N0cmVhbT1tbGI1"
-      }
-    ]
-  },
-  {
-    "category": "COL",
-    "title": "Primera A: La Equidad vs Atlético Bucaramanga",
-    "time": "20:40",
-    "links": [
-      {
-        "label": "Primera A: La Equidad vs Atlético Bucaramanga\n20:40",
-        "url": "https://pelotalibretv.com#"
-      },
-      {
-        "label": "Win Sports +Calidad 720p",
-        "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cDQuY29tL2dsb2JhbDEucGhwP3N0cmVhbT13aW5wbHVz"
-      },
-      {
-        "label": "Win Sports + (Op2]Calidad 720p",
-        "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cDQuY29tL2dsb2JhbDEucGhwP3N0cmVhbT13aW5wbHVzMg=="
       }
     ]
   },
