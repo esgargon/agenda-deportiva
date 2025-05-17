@@ -1,20 +1,5 @@
 [
   {
-    "category": "FRA",
-    "title": "Top 14: Bordeaux vs. Castres (Ronda #24]",
-    "time": "12:20",
-    "links": [
-      {
-        "label": "Top 14: Bordeaux vs. Castres (Ronda #24]\n12:20",
-        "url": "https://pelotalibretv.com#"
-      },
-      {
-        "label": "Disney+Calidad 720p",
-        "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cDQuY29tL2dsb2JhbDEucGhwP3N0cmVhbT1kaXNuZXkxNg=="
-      }
-    ]
-  },
-  {
     "category": "ALE",
     "title": "Bundesliga: RB Leipzig vs Stuttgart",
     "time": "13:30",
@@ -141,10 +126,6 @@
         "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cDQuY29tL2dsb2JhbDEucGhwP3N0cmVhbT1kaXNuZXk5"
       },
       {
-        "label": "ESPN Premium ArgentinaCalidad 720p",
-        "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cDQuY29tL2dsb2JhbDEucGhwP3N0cmVhbT1lc3BucHJlbWl1bQ=="
-      },
-      {
         "label": "ESPN 2Calidad 720p",
         "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cDQuY29tL2dsb2JhbDEucGhwP3N0cmVhbT1lc3BuMg=="
       },
@@ -265,12 +246,12 @@
     ]
   },
   {
-    "category": "FRA",
-    "title": "Ligue 1: Stade Francais vs. Lyon",
+    "category": "RUGBY",
+    "title": "Top 14: Stade Francais vs. Lyon",
     "time": "14:30",
     "links": [
       {
-        "label": "Ligue 1: Stade Francais vs. Lyon\n14:30",
+        "label": "Top 14: Stade Francais vs. Lyon\n14:30",
         "url": "https://pelotalibretv.com#"
       },
       {
@@ -290,7 +271,7 @@
       },
       {
         "label": "Disney+Calidad 720p",
-        "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cDQuY29tL2dsb2JhbDEucGhwP3N0cmVhbT1kaXNuZXkxOQ=="
+        "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cDQuY29tL2dsb2JhbDEucGhwP3N0cmVhbT1kaXNuZXkxNw=="
       }
     ]
   },
@@ -305,7 +286,7 @@
       },
       {
         "label": "Disney+Calidad 720p",
-        "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cDQuY29tL2dsb2JhbDEucGhwP3N0cmVhbT1kaXNuZXkyMA=="
+        "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cDQuY29tL2dsb2JhbDEucGhwP3N0cmVhbT1kaXNuZXkxNg=="
       }
     ]
   },
