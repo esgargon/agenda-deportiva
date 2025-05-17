@@ -16,66 +16,6 @@
   },
   {
     "category": "MLB",
-    "title": "MLB: New York Yankees vs New York Mets",
-    "time": "17:00",
-    "links": [
-      {
-        "label": "MLB: New York Yankees vs New York Mets\n17:00",
-        "url": "https://pelotalibretv.com#"
-      },
-      {
-        "label": "MLBCalidad 720p",
-        "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cDQuY29tL2dsb2JhbDEucGhwP3N0cmVhbT1tbGIx"
-      }
-    ]
-  },
-  {
-    "category": "URU",
-    "title": "Primera Division: River Plate vs Wanderers",
-    "time": "18:00",
-    "links": [
-      {
-        "label": "Primera Division: River Plate vs Wanderers\n18:00",
-        "url": "https://pelotalibretv.com#"
-      },
-      {
-        "label": "Disney+Calidad 720p",
-        "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cDQuY29tL2dsb2JhbDEucGhwP3N0cmVhbT1kaXNuZXkxNA=="
-      }
-    ]
-  },
-  {
-    "category": "HOL",
-    "title": "Eredivisie: Dordrecht vs De Graafschap",
-    "time": "18:00",
-    "links": [
-      {
-        "label": "Eredivisie: Dordrecht vs De Graafschap\n18:00",
-        "url": "https://pelotalibretv.com#"
-      },
-      {
-        "label": "ESPN 1 NLCalidad 720p",
-        "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cDQuY29tL2dsb2JhbDEucGhwP3N0cmVhbT1lc3BuX25sMQ=="
-      }
-    ]
-  },
-  {
-    "category": "PE",
-    "title": "Primera Division: UTC Cajamarca vs Comerciantes Unidos",
-    "time": "18:10",
-    "links": [
-      {
-        "label": "Primera Division: UTC Cajamarca vs Comerciantes Unidos\n18:10",
-        "url": "https://pelotalibretv.com#"
-      },
-      {
-        "label": "Liga1maxCalidad 720p",
-        "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cDQuY29tL2dsb2JhbDEucGhwP3N0cmVhbT1saWdhMW1heA=="
-      }
-    ]
-  },
-  {
-    "category": "MLB",
     "title": "MLB: Chicago Cubs vs Chicago White Sox",
     "time": "18:20",
     "links": [
