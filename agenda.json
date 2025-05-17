@@ -15,113 +15,6 @@
     ]
   },
   {
-    "category": "ENG",
-    "title": "FA Cup: Crystal Palace vs Manchester City | FINAL",
-    "time": "15:30",
-    "links": [
-      {
-        "label": "FA Cup: Crystal Palace vs Manchester City | FINAL\n15:30",
-        "url": "https://pelotalibretv.com#"
-      },
-      {
-        "label": "ESPN 1 ArgentinaCalidad 720p",
-        "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cDQuY29tL2dsb2JhbDEucGhwP3N0cmVhbT1ldmVudG9zOA=="
-      },
-      {
-        "label": "ESPN 1Calidad 720p",
-        "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cDQuY29tL2dsb2JhbDEucGhwP3N0cmVhbT1lc3Bu"
-      },
-      {
-        "label": "MAXCalidad 720p",
-        "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cDQuY29tL2dsb2JhbDEucGhwP3N0cmVhbT1tYXgx"
-      },
-      {
-        "label": "ESPN+ | SpanishCalidad 720p",
-        "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cDQuY29tL2dsb2JhbDEucGhwP3N0cmVhbT1lc3BucGx1czM="
-      },
-      {
-        "label": "ESPN+ | EnglishCalidad 720p",
-        "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cDQuY29tL2dsb2JhbDEucGhwP3N0cmVhbT1lc3BucGx1czQ="
-      },
-      {
-        "label": "Disney+Calidad 720p",
-        "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cDQuY29tL2dsb2JhbDEucGhwP3N0cmVhbT1kaXNuZXkxMg=="
-      },
-      {
-        "label": "ESPN 1 BRCalidad 720p",
-        "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cDQuY29tL2dsb2JhbDEucGhwP3N0cmVhbT1lc3BuMWJy"
-      }
-    ]
-  },
-  {
-    "category": "ES",
-    "title": "Segunda Division: Huesca vs Elche",
-    "time": "16:30",
-    "links": [
-      {
-        "label": "Segunda Division: Huesca vs Elche\n16:30",
-        "url": "https://pelotalibretv.com#"
-      },
-      {
-        "label": "Disney+Calidad 720p",
-        "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cDQuY29tL2dsb2JhbDEucGhwP3N0cmVhbT1kaXNuZXkxMw=="
-      },
-      {
-        "label": "LaLiga HypermotionCalidad 720p",
-        "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cDQuY29tL2dsb2JhbDEucGhwP3N0cmVhbT1sYWxpZ2FoeXBlcm1vdGlvbg=="
-      }
-    ]
-  },
-  {
-    "category": "AR",
-    "title": "Primera B Nacional: Defensores de Belgrano vs Almirante Brown",
-    "time": "16:30",
-    "links": [
-      {
-        "label": "Primera B Nacional: Defensores de Belgrano vs Almirante Brown\n16:30",
-        "url": "https://pelotalibretv.com#"
-      },
-      {
-        "label": "TyC SportsCalidad 720p",
-        "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cDQuY29tL2dsb2JhbDEucGhwP3N0cmVhbT10eWNzcG9ydHM="
-      }
-    ]
-  },
-  {
-    "category": "POR",
-    "title": "Primeira Liga: Sporting CP vs Vitória Guimarães",
-    "time": "17:00",
-    "links": [
-      {
-        "label": "Primeira Liga: Sporting CP vs Vitória Guimarães\n17:00",
-        "url": "https://pelotalibretv.com#"
-      },
-      {
-        "label": "GolTVCalidad 720p",
-        "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cDQuY29tL2dsb2JhbDEucGhwP3N0cmVhbT1nb2x0dg=="
-      },
-      {
-        "label": "Sport TV 1 PTCalidad 720p",
-        "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cDQuY29tL2dsb2JhbDEucGhwP3N0cmVhbT1zcG9ydHZfMXB0"
-      }
-    ]
-  },
-  {
-    "category": "POR",
-    "title": "Primeira Liga: Porto vs Nacional",
-    "time": "17:00",
-    "links": [
-      {
-        "label": "Primeira Liga: Porto vs Nacional\n17:00",
-        "url": "https://pelotalibretv.com#"
-      },
-      {
-        "label": "Sport TV 3 PTCalidad 720p",
-        "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cDQuY29tL2dsb2JhbDEucGhwP3N0cmVhbT1zcG9ydHZfM3B0"
-      }
-    ]
-  },
-  {
     "category": "MLB",
     "title": "MLB: New York Yankees vs New York Mets",
     "time": "17:00",
@@ -625,21 +518,6 @@
       {
         "label": "ECDFCalidad 720p",
         "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cDQuY29tL2dsb2JhbDEucGhwP3N0cmVhbT1lY2Rm"
-      }
-    ]
-  },
-  {
-    "category": "CH",
-    "title": "Primera B: San Luis vs Curicó Unido",
-    "time": "21:30",
-    "links": [
-      {
-        "label": "Primera B: San Luis vs Curicó Unido\n21:30",
-        "url": "https://pelotalibretv.com#"
-      },
-      {
-        "label": "MAXCalidad 720p",
-        "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cDQuY29tL2dsb2JhbDEucGhwP3N0cmVhbT1tYXgx"
       }
     ]
   },
