@@ -1,80 +1,5 @@
 [
   {
-    "category": "INDYCAR",
-    "title": "Indycar Series: 109th Indianapolis 500 (Qualifying Day 1]",
-    "time": "15:00",
-    "links": [
-      {
-        "label": "Indycar Series: 109th Indianapolis 500 (Qualifying Day 1]\n15:00",
-        "url": "https://pelotalibretv.com#"
-      },
-      {
-        "label": "Disney+Calidad 720p",
-        "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cDQuY29tL2dsb2JhbDEucGhwP3N0cmVhbT1kaXNuZXkxNw=="
-      }
-    ]
-  },
-  {
-    "category": "MLB",
-    "title": "MLB: Chicago Cubs vs Chicago White Sox",
-    "time": "18:20",
-    "links": [
-      {
-        "label": "MLB: Chicago Cubs vs Chicago White Sox\n18:20",
-        "url": "https://pelotalibretv.com#"
-      },
-      {
-        "label": "MLBCalidad 720p",
-        "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cDQuY29tL2dsb2JhbDEucGhwP3N0cmVhbT1tbGIy"
-      }
-    ]
-  },
-  {
-    "category": "MLB",
-    "title": "MLB: Toronto Blue Jays vs Detroit Tigers",
-    "time": "19:00",
-    "links": [
-      {
-        "label": "MLB: Toronto Blue Jays vs Detroit Tigers\n19:00",
-        "url": "https://pelotalibretv.com#"
-      },
-      {
-        "label": "MLBCalidad 720p",
-        "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cDQuY29tL2dsb2JhbDEucGhwP3N0cmVhbT1tbGIz"
-      }
-    ]
-  },
-  {
-    "category": "PY",
-    "title": "Primera Division: Nacional Asunción vs Sportivo Luqueño",
-    "time": "20:00",
-    "links": [
-      {
-        "label": "Primera Division: Nacional Asunción vs Sportivo Luqueño\n20:00",
-        "url": "https://pelotalibretv.com#"
-      },
-      {
-        "label": "Tigo SportsCalidad 720p",
-        "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cDQuY29tL2dsb2JhbDEucGhwP3N0cmVhbT1ldmVudG9zOQ=="
-      }
-    ]
-  },
-  {
-    "category": "AR",
-    "title": "Primera B Nacional: Deportivo Morón vs Colón",
-    "time": "20:00",
-    "links": [
-      {
-        "label": "Primera B Nacional: Deportivo Morón vs Colón\n20:00",
-        "url": "https://pelotalibretv.com#"
-      },
-      {
-        "label": "TyC SportsCalidad 720p",
-        "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cDQuY29tL2dsb2JhbDEucGhwP3N0cmVhbT10eWNzcG9ydHM="
-      }
-    ]
-  },
-  {
     "category": "MLB",
     "title": "MLB: Baltimore Orioles vs Washington Nationals",
     "time": "20:00",
@@ -105,21 +30,6 @@
     ]
   },
   {
-    "category": "URU",
-    "title": "Primera Division: Plaza Colonia vs Danubio",
-    "time": "20:10",
-    "links": [
-      {
-        "label": "Primera Division: Plaza Colonia vs Danubio\n20:10",
-        "url": "https://pelotalibretv.com#"
-      },
-      {
-        "label": "Disney+Calidad 720p",
-        "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cDQuY29tL2dsb2JhbDEucGhwP3N0cmVhbT1kaXNuZXk0"
-      }
-    ]
-  },
-  {
     "category": "MLB",
     "title": "MLB: Miami Marlins vs Tampa Bay Rays",
     "time": "20:10",
@@ -131,21 +41,6 @@
       {
         "label": "MLBCalidad 720p",
         "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cDQuY29tL2dsb2JhbDEucGhwP3N0cmVhbT1tbGI1"
-      }
-    ]
-  },
-  {
-    "category": "PE",
-    "title": "Primera Division: Sporting Cristal vs ADT",
-    "time": "20:30",
-    "links": [
-      {
-        "label": "Primera Division: Sporting Cristal vs ADT\n20:30",
-        "url": "https://pelotalibretv.com#"
-      },
-      {
-        "label": "Liga1maxCalidad 720p",
-        "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cDQuY29tL2dsb2JhbDEucGhwP3N0cmVhbT1saWdhMW1heA=="
       }
     ]
   },
