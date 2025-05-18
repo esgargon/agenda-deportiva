@@ -1,35 +1,5 @@
 [
   {
-    "category": "ES",
-    "title": "LALIGA: Multigoal Feed",
-    "time": "16:50",
-    "links": [
-      {
-        "label": "LALIGA: Multigoal Feed\n16:50",
-        "url": "https://pelotalibretv.com#"
-      },
-      {
-        "label": "Disney+Calidad 720p",
-        "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cDQuY29tL2dsb2JhbDEucGhwP3N0cmVhbT1kaXNuZXky"
-      }
-    ]
-  },
-  {
-    "category": "MLB",
-    "title": "MLB: Texas Rangers vs Houston Astros",
-    "time": "17:00",
-    "links": [
-      {
-        "label": "MLB: Texas Rangers vs Houston Astros\n17:00",
-        "url": "https://pelotalibretv.com#"
-      },
-      {
-        "label": "MLBCalidad 720p",
-        "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cDQuY29tL2dsb2JhbDEucGhwP3N0cmVhbT1tbGIx"
-      }
-    ]
-  },
-  {
     "category": "MLB",
     "title": "MLB: Baltimore Orioles vs Washington Nationals",
     "time": "17:30",
@@ -120,70 +90,6 @@
     ]
   },
   {
-    "category": "ECUA",
-    "title": "Primera A: Cuniburo vs Independiente del Valle",
-    "time": "18:00",
-    "links": [
-      {
-        "label": "Primera A: Cuniburo vs Independiente del Valle\n18:00",
-        "url": "https://pelotalibretv.com#"
-      },
-      {
-        "label": "ECDFCalidad 720p",
-        "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cDQuY29tL2dsb2JhbDEucGhwP3N0cmVhbT1lY2Rm"
-      }
-    ]
-  },
-  {
-    "category": "URU",
-    "title": "Primera Division: Progreso vs Juventud",
-    "time": "18:00",
-    "links": [
-      {
-        "label": "Primera Division: Progreso vs Juventud\n18:00",
-        "url": "https://pelotalibretv.com#"
-      },
-      {
-        "label": "Disney+Calidad 720p",
-        "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cDQuY29tL2dsb2JhbDEucGhwP3N0cmVhbT1kaXNuZXk3"
-      }
-    ]
-  },
-  {
-    "category": "URU",
-    "title": "Primera Division: Liverpool vs Cerro Largo",
-    "time": "18:00",
-    "links": [
-      {
-        "label": "Primera Division: Liverpool vs Cerro Largo\n18:00",
-        "url": "https://pelotalibretv.com#"
-      },
-      {
-        "label": "Disney+Calidad 720p",
-        "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cDQuY29tL2dsb2JhbDEucGhwP3N0cmVhbT1kaXNuZXk4"
-      }
-    ]
-  },
-  {
-    "category": "URU",
-    "title": "Primera Division: Nacional vs Defensor Sporting",
-    "time": "18:00",
-    "links": [
-      {
-        "label": "Primera Division: Nacional vs Defensor Sporting\n18:00",
-        "url": "https://pelotalibretv.com#"
-      },
-      {
-        "label": "GolTVCalidad 720p",
-        "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cDQuY29tL2dsb2JhbDEucGhwP3N0cmVhbT1nb2x0dg=="
-      },
-      {
-        "label": "Disney+Calidad 720p",
-        "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cDQuY29tL2dsb2JhbDEucGhwP3N0cmVhbT1kaXNuZXk5"
-      }
-    ]
-  },
-  {
     "category": "MLB",
     "title": "MLB: Milwaukee Brewers vs Minnesota Twins",
     "time": "18:10",
@@ -195,21 +101,6 @@
       {
         "label": "MLBCalidad 720p",
         "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cDQuY29tL2dsb2JhbDEucGhwP3N0cmVhbT1tbGI4"
-      }
-    ]
-  },
-  {
-    "category": "PE",
-    "title": "Primera Division: Sport Huancayo vs Sport Boys",
-    "time": "18:10",
-    "links": [
-      {
-        "label": "Primera Division: Sport Huancayo vs Sport Boys\n18:10",
-        "url": "https://pelotalibretv.com#"
-      },
-      {
-        "label": "Liga1maxCalidad 720p",
-        "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cDQuY29tL2dsb2JhbDEucGhwP3N0cmVhbT1saWdhMW1heA=="
       }
     ]
   },
@@ -467,6 +358,10 @@
       {
         "label": "Brasileirão: Juventude vs Fluminense\n19:00",
         "url": "https://pelotalibretv.com#"
+      },
+      {
+        "label": "Premiere 4 BRCalidad 720p",
+        "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cDQuY29tL2dsb2JhbDEucGhwP3N0cmVhbT1ldmVudG9zMg=="
       }
     ]
   },
@@ -749,6 +644,10 @@
       {
         "label": "Brasileirão: RB Bragantino vs Palmeiras\n21:30",
         "url": "https://pelotalibretv.com#"
+      },
+      {
+        "label": "Premiere 4 BRCalidad 720p",
+        "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cDQuY29tL2dsb2JhbDEucGhwP3N0cmVhbT1ldmVudG9zMg=="
       }
     ]
   },
@@ -914,6 +813,10 @@
       {
         "label": "Brasileirão: Cruzeiro vs Atlético Mineiro\n23:30",
         "url": "https://pelotalibretv.com#"
+      },
+      {
+        "label": "Amazon PrimeCalidad 720p",
+        "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cDQuY29tL2dsb2JhbDEucGhwP3N0cmVhbT1ldmVudG9zNg=="
       }
     ]
   },
