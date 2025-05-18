@@ -31,33 +31,6 @@
     ]
   },
   {
-    "category": "F1",
-    "title": "F1: F1 GP Imola, carrera | Con Tornello, Fossaroli y López",
-    "time": "11:30",
-    "links": [
-      {
-        "label": "F1: F1 GP Imola, carrera | Con Tornello, Fossaroli y López\n11:30",
-        "url": "https://pelotalibretv.com#"
-      },
-      {
-        "label": "ESPN 1Calidad 720p",
-        "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cDQuY29tL2dsb2JhbDEucGhwP3N0cmVhbT1lc3Bu"
-      },
-      {
-        "label": "Fox Sports PremiumCalidad 720p",
-        "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cDQuY29tL2dsb2JhbDEucGhwP3N0cmVhbT1mb3hzcG9ydHNwcmVtaXVt"
-      },
-      {
-        "label": "Disney+Calidad 720p",
-        "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cDQuY29tL2dsb2JhbDEucGhwP3N0cmVhbT1kaXNuZXkxOQ=="
-      },
-      {
-        "label": "ESPN Deportes USACalidad 720p",
-        "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cDQuY29tL2dsb2JhbDEucGhwP3N0cmVhbT1lc3BuZGVwb3J0ZXM="
-      }
-    ]
-  },
-  {
     "category": "BEL",
     "title": "Pro League: Anderlecht vs Club Brugge",
     "time": "11:30",
@@ -215,6 +188,33 @@
   },
   {
     "category": "F1",
+    "title": "F1: F1 GP Imola, Carrera",
+    "time": "11:30",
+    "links": [
+      {
+        "label": "F1: F1 GP Imola, Carrera\n11:30",
+        "url": "https://pelotalibretv.com#"
+      },
+      {
+        "label": "ESPN Deportes USACalidad 720p",
+        "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cDQuY29tL2dsb2JhbDEucGhwP3N0cmVhbT1lc3BuZGVwb3J0ZXM="
+      },
+      {
+        "label": "Fox Sports PremiumCalidad 720p",
+        "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cDQuY29tL2dsb2JhbDEucGhwP3N0cmVhbT1mb3hzcG9ydHNwcmVtaXVt"
+      },
+      {
+        "label": "Disney+Calidad 720p",
+        "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cDQuY29tL2dsb2JhbDEucGhwP3N0cmVhbT1kaXNuZXkxOQ=="
+      },
+      {
+        "label": "Fox Sports 1 ArgentinaCalidad 720p",
+        "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cDQuY29tL2dsb2JhbDEucGhwP3N0cmVhbT1mb3gxYXI="
+      }
+    ]
+  },
+  {
+    "category": "F1",
     "title": "F1: F1 GP Imola, carrera | Camara On Board",
     "time": "13:00",
     "links": [
@@ -366,6 +366,10 @@
       {
         "label": "DAZN 2 ESCalidad 720p",
         "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cDQuY29tL2dsb2JhbDEucGhwP3N0cmVhbT1kYXpuMg=="
+      },
+      {
+        "label": "Peacock TVCalidad 720p",
+        "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cDQuY29tL2dsb2JhbDEucGhwP3N0cmVhbT1wYWVjb2NrMQ=="
       }
     ]
   },
@@ -385,6 +389,10 @@
       {
         "label": "Eleven Sports 4 PTCalidad 720p",
         "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cDQuY29tL2dsb2JhbDEucGhwP3N0cmVhbT1lbGV2ZW40X3B0"
+      },
+      {
+        "label": "Peacock TVCalidad 720p",
+        "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cDQuY29tL2dsb2JhbDEucGhwP3N0cmVhbT1wYWVjb2NrMg=="
       }
     ]
   },
@@ -1281,6 +1289,10 @@
       {
         "label": "Brasileirão: Bahia vs Vitória\n19:00",
         "url": "https://pelotalibretv.com#"
+      },
+      {
+        "label": "Premiere 3 BRCalidad 720p",
+        "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cDQuY29tL2dsb2JhbDEucGhwP3N0cmVhbT1wcmVtaWVyZTM="
       }
     ]
   },
@@ -1292,6 +1304,10 @@
       {
         "label": "Brasileirão: Corinthians vs Santos\n19:00",
         "url": "https://pelotalibretv.com#"
+      },
+      {
+        "label": "Premiere 1 BRCalidad 720p",
+        "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cDQuY29tL2dsb2JhbDEucGhwP3N0cmVhbT1wcmVtaWVyZTE="
       }
     ]
   },
@@ -1378,6 +1394,10 @@
       {
         "label": "NBA: Oklahoma City Thunder vs Denver Nuggets\n19:30",
         "url": "https://pelotalibretv.com#"
+      },
+      {
+        "label": "ESPN 1Calidad 720p",
+        "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cDQuY29tL2dsb2JhbDEucGhwP3N0cmVhbT1lc3Bu"
       },
       {
         "label": "NBACalidad 720p",
@@ -1566,6 +1586,10 @@
       {
         "label": "Brasileirão: Flamengo vs Botafogo\n21:30",
         "url": "https://pelotalibretv.com#"
+      },
+      {
+        "label": "Premiere 1 BRCalidad 720p",
+        "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cDQuY29tL2dsb2JhbDEucGhwP3N0cmVhbT1wcmVtaWVyZTE="
       }
     ]
   },
@@ -1753,6 +1777,10 @@
       {
         "label": "Brasileirão: Internacional vs Mirassol\n23:30",
         "url": "https://pelotalibretv.com#"
+      },
+      {
+        "label": "Premiere 5 BRCalidad 720p",
+        "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cDQuY29tL2dsb2JhbDEucGhwP3N0cmVhbT1ldmVudG9zNQ=="
       }
     ]
   },
