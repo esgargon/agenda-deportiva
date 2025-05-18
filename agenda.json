@@ -1,28 +1,5 @@
 [
   {
-    "category": "BEL",
-    "title": "Pro League: Anderlecht vs Club Brugge",
-    "time": "11:30",
-    "links": [
-      {
-        "label": "Pro League: Anderlecht vs Club Brugge\n11:30",
-        "url": "https://pelotalibretv.com#"
-      },
-      {
-        "label": "Fox Sports 2Calidad 720p",
-        "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cDQuY29tL2dsb2JhbDEucGhwP3N0cmVhbT1mb3gyYXI="
-      },
-      {
-        "label": "ESPN 3 MXCalidad 720p",
-        "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cDQuY29tL2dsb2JhbDEucGhwP3N0cmVhbT1lc3BuM214"
-      },
-      {
-        "label": "Eleven Sports 2 PTCalidad 720p",
-        "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cDQuY29tL2dsb2JhbDEucGhwP3N0cmVhbT1lbGV2ZW4yX3B0"
-      }
-    ]
-  },
-  {
     "category": "ES",
     "title": "Segunda Division: Racing Ferrol vs Cádiz",
     "time": "12:00",
@@ -372,7 +349,7 @@
       },
       {
         "label": "Disney+Calidad 720p",
-        "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cDQuY29tL2dsb2JhbDEucGhwP3N0cmVhbT1kaXNuZXkxOQ=="
+        "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cDQuY29tL2dsb2JhbDEucGhwP3N0cmVhbT1kaXNuZXkz"
       }
     ]
   },
@@ -532,7 +509,7 @@
       },
       {
         "label": "Disney+Calidad 720p",
-        "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cDQuY29tL2dsb2JhbDEucGhwP3N0cmVhbT1kaXNuZXkyMA=="
+        "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cDQuY29tL2dsb2JhbDEucGhwP3N0cmVhbT1kaXNuZXky"
       }
     ]
   },
@@ -779,21 +756,6 @@
       {
         "label": "ESPN+ | EnglishCalidad 720p",
         "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cDQuY29tL2dsb2JhbDEucGhwP3N0cmVhbT1lc3BucGx1czE4"
-      }
-    ]
-  },
-  {
-    "category": "INDYCAR",
-    "title": "IndyCar Series: 109th Indianapolis 500 (Practice 7]",
-    "time": "17:00",
-    "links": [
-      {
-        "label": "IndyCar Series: 109th Indianapolis 500 (Practice 7]\n17:00",
-        "url": "https://pelotalibretv.com#"
-      },
-      {
-        "label": "Disney+Calidad 720p",
-        "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cDQuY29tL2dsb2JhbDEucGhwP3N0cmVhbT1kaXNuZXkyMA=="
       }
     ]
   },
