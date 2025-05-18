@@ -1,59 +1,6 @@
 [
   {
     "category": "MLB",
-    "title": "MLB: Chicago Cubs vs Chicago White Sox",
-    "time": "18:20",
-    "links": [
-      {
-        "label": "MLB: Chicago Cubs vs Chicago White Sox\n18:20",
-        "url": "https://pelotalibretv.com#"
-      },
-      {
-        "label": "MLBCalidad 720p",
-        "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cDQuY29tL2dsb2JhbDEucGhwP3N0cmVhbT1tbGIxMA=="
-      }
-    ]
-  },
-  {
-    "category": "NBA",
-    "title": "NBA: Oklahoma City Thunder vs Denver Nuggets",
-    "time": "19:30",
-    "links": [
-      {
-        "label": "NBA: Oklahoma City Thunder vs Denver Nuggets\n19:30",
-        "url": "https://pelotalibretv.com#"
-      },
-      {
-        "label": "ESPN 1Calidad 720p",
-        "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cDQuY29tL2dsb2JhbDEucGhwP3N0cmVhbT1lc3Bu"
-      },
-      {
-        "label": "NBACalidad 720p",
-        "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cDQuY29tL2dsb2JhbDEucGhwP3N0cmVhbT1uYmEx"
-      },
-      {
-        "label": "Disney+Calidad 720p",
-        "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cDQuY29tL2dsb2JhbDEucGhwP3N0cmVhbT1kaXNuZXkxOQ=="
-      }
-    ]
-  },
-  {
-    "category": "PY",
-    "title": "Primera Division: 2 de Mayo vs Olimpia",
-    "time": "20:00",
-    "links": [
-      {
-        "label": "Primera Division: 2 de Mayo vs Olimpia\n20:00",
-        "url": "https://pelotalibretv.com#"
-      },
-      {
-        "label": "Tigo SportsCalidad 720p",
-        "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cDQuY29tL2dsb2JhbDEucGhwP3N0cmVhbT1ldmVudG9zOQ=="
-      }
-    ]
-  },
-  {
-    "category": "MLB",
     "title": "MLB: San Francisco Giants vs Athletics",
     "time": "20:00",
     "links": [
@@ -124,36 +71,6 @@
       {
         "label": "MLBCalidad 720p",
         "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cDQuY29tL2dsb2JhbDEucGhwP3N0cmVhbT1tbGIxNA=="
-      }
-    ]
-  },
-  {
-    "category": "ECUA",
-    "title": "Primera A: Delfin vs Universidad Católica",
-    "time": "20:30",
-    "links": [
-      {
-        "label": "Primera A: Delfin vs Universidad Católica\n20:30",
-        "url": "https://pelotalibretv.com#"
-      },
-      {
-        "label": "ECDFCalidad 720p",
-        "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cDQuY29tL2dsb2JhbDEucGhwP3N0cmVhbT1lY2Rm"
-      }
-    ]
-  },
-  {
-    "category": "PE",
-    "title": "Primera Division: Juan Pablo II College vs Universitario",
-    "time": "20:30",
-    "links": [
-      {
-        "label": "Primera Division: Juan Pablo II College vs Universitario\n20:30",
-        "url": "https://pelotalibretv.com#"
-      },
-      {
-        "label": "Liga1maxCalidad 720p",
-        "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cDQuY29tL2dsb2JhbDEucGhwP3N0cmVhbT1saWdhMW1heA=="
       }
     ]
   },
@@ -355,8 +272,8 @@
         "url": "https://pelotalibretv.com#"
       },
       {
-        "label": "MLBCalidad 720p",
-        "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cDQuY29tL2dsb2JhbDEucGhwP3N0cmVhbT1tbGIxNQ=="
+        "label": "ESPN 3Calidad 720p",
+        "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cDQuY29tL2dsb2JhbDEucGhwP3N0cmVhbT1lc3BuMw=="
       }
     ]
   },
