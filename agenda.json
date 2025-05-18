@@ -1,28 +1,5 @@
 [
   {
-    "category": "ENG",
-    "title": "Premier League: Everton vs Southampton",
-    "time": "11:00",
-    "links": [
-      {
-        "label": "Premier League: Everton vs Southampton\n11:00",
-        "url": "https://pelotalibretv.com#"
-      },
-      {
-        "label": "ESPN 1Calidad 720p",
-        "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cDQuY29tL2dsb2JhbDEucGhwP3N0cmVhbT1lc3Bu"
-      },
-      {
-        "label": "ESPN 1 BRCalidad 720p",
-        "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cDQuY29tL2dsb2JhbDEucGhwP3N0cmVhbT1lc3BuMWJy"
-      },
-      {
-        "label": "USA NetworkCalidad 720p",
-        "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cDQuY29tL2dsb2JhbDEucGhwP3N0cmVhbT11c2FfbmV0d29yaw=="
-      }
-    ]
-  },
-  {
     "category": "BEL",
     "title": "Pro League: Anderlecht vs Club Brugge",
     "time": "11:30",
@@ -95,21 +72,6 @@
       {
         "label": "Sport TV 2 PTCalidad 720p",
         "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cDQuY29tL2dsb2JhbDEucGhwP3N0cmVhbT1zcG9ydHZfMnB0"
-      }
-    ]
-  },
-  {
-    "category": "HOL",
-    "title": "Eredivisie: AZ vs Almere City",
-    "time": "12:30",
-    "links": [
-      {
-        "label": "Eredivisie: AZ vs Almere City\n12:30",
-        "url": "https://pelotalibretv.com#"
-      },
-      {
-        "label": "Disney+Calidad 720p",
-        "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cDQuY29tL2dsb2JhbDEucGhwP3N0cmVhbT1kaXNuZXk2"
       }
     ]
   },
@@ -223,7 +185,7 @@
       },
       {
         "label": "Disney+Calidad 720p",
-        "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cDQuY29tL2dsb2JhbDEucGhwP3N0cmVhbT1kaXNuZXkxOQ=="
+        "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cDQuY29tL2dsb2JhbDEucGhwP3N0cmVhbT1kaXNuZXkxNw=="
       }
     ]
   },
