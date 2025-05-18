@@ -32,10 +32,6 @@
         "url": "https://pelotalibretv.com#"
       },
       {
-        "label": "Disney+Calidad 720p",
-        "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cDQuY29tL2dsb2JhbDEucGhwP3N0cmVhbT1kaXNuZXky"
-      },
-      {
         "label": "Fox Sports 2Calidad 720p",
         "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cDQuY29tL2dsb2JhbDEucGhwP3N0cmVhbT1mb3gyYXI="
       },
@@ -46,21 +42,6 @@
       {
         "label": "Eleven Sports 2 PTCalidad 720p",
         "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cDQuY29tL2dsb2JhbDEucGhwP3N0cmVhbT1lbGV2ZW4yX3B0"
-      }
-    ]
-  },
-  {
-    "category": "FUT",
-    "title": "Copa AFC: Lion City Sailors vs Al Sharjah",
-    "time": "12:00",
-    "links": [
-      {
-        "label": "Copa AFC: Lion City Sailors vs Al Sharjah\n12:00",
-        "url": "https://pelotalibretv.com#"
-      },
-      {
-        "label": "Disney+Calidad 720p",
-        "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cDQuY29tL2dsb2JhbDEucGhwP3N0cmVhbT1kaXNuZXkz"
       }
     ]
   },
@@ -91,10 +72,6 @@
       {
         "label": "ESPN 5Calidad 720p",
         "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cDQuY29tL2dsb2JhbDEucGhwP3N0cmVhbT1lc3BuNQ=="
-      },
-      {
-        "label": "Disney+Calidad 720p",
-        "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cDQuY29tL2dsb2JhbDEucGhwP3N0cmVhbT1kaXNuZXk0"
       },
       {
         "label": "ESPN 4 BRCalidad 720p",
