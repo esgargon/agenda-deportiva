@@ -1,39 +1,5 @@
 [
   {
-    "category": "URU",
-    "title": "Primera Division: Racing vs Miramar Misiones",
-    "time": "18:00",
-    "links": [
-      {
-        "label": "Primera Division: Racing vs Miramar Misiones\n18:00",
-        "url": "https://pelotalibretv.com#"
-      },
-      {
-        "label": "Disney+Calidad 720p",
-        "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cDQuY29tL2dsb2JhbDEucGhwP3N0cmVhbT1kaXNuZXkx"
-      }
-    ]
-  },
-  {
-    "category": "ES",
-    "title": "Segunda Division: Córdoba vs Mirandés",
-    "time": "18:30",
-    "links": [
-      {
-        "label": "Segunda Division: Córdoba vs Mirandés\n18:30",
-        "url": "https://pelotalibretv.com#"
-      },
-      {
-        "label": "Disney+Calidad 720p",
-        "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cDQuY29tL2dsb2JhbDEucGhwP3N0cmVhbT1kaXNuZXky"
-      },
-      {
-        "label": "LaLiga HypermotionCalidad 720p",
-        "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cDQuY29tL2dsb2JhbDEucGhwP3N0cmVhbT1sYWxpZ2FoeXBlcm1vdGlvbg=="
-      }
-    ]
-  },
-  {
     "category": "ENG",
     "title": "Premier League: Brighton & Hove Albion vs Liverpool",
     "time": "19:00",
