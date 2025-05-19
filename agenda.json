@@ -1,20 +1,5 @@
 [
   {
-    "category": "URU",
-    "title": "Primera Division: Plaza Colonia vs Danubio",
-    "time": "21:00",
-    "links": [
-      {
-        "label": "Primera Division: Plaza Colonia vs Danubio\n21:00",
-        "url": "https://pelotalibretv.com#"
-      },
-      {
-        "label": "Disney+Calidad 720p",
-        "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cDQuY29tL2dsb2JhbDEucGhwP3N0cmVhbT1kaXNuZXk0"
-      }
-    ]
-  },
-  {
     "category": "AR",
     "title": "Superliga Argentina: Argentinos Juniors vs San Lorenzo",
     "time": "22:00",
@@ -248,10 +233,6 @@
       {
         "label": "ESPN PremiumCalidad 720p",
         "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cDQuY29tL2dsb2JhbDEucGhwP3N0cmVhbT1lc3BucHJlbWl1bQ=="
-      },
-      {
-        "label": "Disney+Calidad 720p",
-        "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cDQuY29tL2dsb2JhbDEucGhwP3N0cmVhbT1kaXNuZXk2"
       },
       {
         "label": "ESPN 1Calidad 720p",
