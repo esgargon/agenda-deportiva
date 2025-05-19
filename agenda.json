@@ -1,59 +1,5 @@
 [
   {
-    "category": "ENG",
-    "title": "Premier League: Brighton & Hove Albion vs Liverpool",
-    "time": "19:00",
-    "links": [
-      {
-        "label": "Premier League: Brighton & Hove Albion vs Liverpool\n19:00",
-        "url": "https://pelotalibretv.com#"
-      },
-      {
-        "label": "ESPN 1Calidad 720p",
-        "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cDQuY29tL2dsb2JhbDEucGhwP3N0cmVhbT1lc3Bu"
-      },
-      {
-        "label": "Disney+Calidad 720p",
-        "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cDQuY29tL2dsb2JhbDEucGhwP3N0cmVhbT1kaXNuZXkz"
-      },
-      {
-        "label": "DAZN 1 ESCalidad 720p",
-        "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cDQuY29tL2dsb2JhbDEucGhwP3N0cmVhbT1kYXpuMQ=="
-      },
-      {
-        "label": "Universo USACalidad 720p",
-        "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cDQuY29tL2dsb2JhbDEucGhwP3N0cmVhbT11bml2ZXJzb191c2E="
-      },
-      {
-        "label": "USA NetworkCalidad 720p",
-        "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cDQuY29tL2dsb2JhbDEucGhwP3N0cmVhbT11c2FfbmV0d29yaw=="
-      },
-      {
-        "label": "Eleven Sports 1 PTCalidad 720p",
-        "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cDQuY29tL2dsb2JhbDEucGhwP3N0cmVhbT1lbGV2ZW4xX3B0"
-      },
-      {
-        "label": "ESPN 1 BRCalidad 720p",
-        "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cDQuY29tL2dsb2JhbDEucGhwP3N0cmVhbT1lc3BuMWJy"
-      }
-    ]
-  },
-  {
-    "category": "CH",
-    "title": "Primera Division: Unión Española vs Everton",
-    "time": "19:00",
-    "links": [
-      {
-        "label": "Primera Division: Unión Española vs Everton\n19:00",
-        "url": "https://pelotalibretv.com#"
-      },
-      {
-        "label": "MAXCalidad 720p",
-        "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cDQuY29tL2dsb2JhbDEucGhwP3N0cmVhbT1tYXgx"
-      }
-    ]
-  },
-  {
     "category": "URU",
     "title": "Primera Division: Plaza Colonia vs Danubio",
     "time": "21:00",
