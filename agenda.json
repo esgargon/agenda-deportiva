@@ -17,12 +17,12 @@
         "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cDQuY29tL2dsb2JhbDEucGhwP3N0cmVhbT1kaXNuZXkx"
       },
       {
-        "label": "DAZN 2 ESCalidad 720p",
-        "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cDQuY29tL2dsb2JhbDEucGhwP3N0cmVhbT1kYXpuMg=="
-      },
-      {
         "label": "ESPN 1 BRCalidad 720p",
         "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cDQuY29tL2dsb2JhbDEucGhwP3N0cmVhbT1lc3BuMWJy"
+      },
+      {
+        "label": "Peacock TVCalidad 720p",
+        "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cDQuY29tL2dsb2JhbDEucGhwP3N0cmVhbT1wZWFjb2NrMQ=="
       }
     ]
   },
@@ -46,10 +46,6 @@
       {
         "label": "Eleven Sports 1 PTCalidad 720p",
         "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cDQuY29tL2dsb2JhbDEucGhwP3N0cmVhbT1lbGV2ZW4xX3B0"
-      },
-      {
-        "label": "DAZN 1 ESCalidad 720p",
-        "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cDQuY29tL2dsb2JhbDEucGhwP3N0cmVhbT1kYXpuMQ=="
       },
       {
         "label": "USA NetworkCalidad 720p",
@@ -84,6 +80,36 @@
       {
         "label": "Tigo SportsCalidad 720p",
         "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cDQuY29tL2dsb2JhbDEucGhwP3N0cmVhbT1ldmVudG9zOQ=="
+      }
+    ]
+  },
+  {
+    "category": "BRA",
+    "title": "Copa do Brasil: Vasco da Gama vs Operário PR",
+    "time": "22:00",
+    "links": [
+      {
+        "label": "Copa do Brasil: Vasco da Gama vs Operário PR\n22:00",
+        "url": "https://pelotalibretv.com#"
+      },
+      {
+        "label": "Premiere 1 BRCalidad 720p",
+        "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cDQuY29tL2dsb2JhbDEucGhwP3N0cmVhbT1wcmVtaWVyZTE="
+      }
+    ]
+  },
+  {
+    "category": "BRA",
+    "title": "Copa do Brasil: Athletico-PR vs Brusque",
+    "time": "22:30",
+    "links": [
+      {
+        "label": "Copa do Brasil: Athletico-PR vs Brusque\n22:30",
+        "url": "https://pelotalibretv.com#"
+      },
+      {
+        "label": "Amazon Prime VideoCalidad 720p",
+        "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cDQuY29tL2dsb2JhbDEucGhwP3N0cmVhbT1ldmVudG9zNg=="
       }
     ]
   },
@@ -291,6 +317,36 @@
       {
         "label": "Disney+Calidad 720p",
         "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cDQuY29tL2dsb2JhbDEucGhwP3N0cmVhbT1kaXNuZXkz"
+      }
+    ]
+  },
+  {
+    "category": "BRA",
+    "title": "Copa do Brasil: Náutico vs São Paulo",
+    "time": "00:30",
+    "links": [
+      {
+        "label": "Copa do Brasil: Náutico vs São Paulo\n00:30",
+        "url": "https://pelotalibretv.com#"
+      },
+      {
+        "label": "Premiere 1 BRCalidad 720p",
+        "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cDQuY29tL2dsb2JhbDEucGhwP3N0cmVhbT1wcmVtaWVyZTE="
+      }
+    ]
+  },
+  {
+    "category": "BRA",
+    "title": "Copa do Brasil: Grêmio vs CSA",
+    "time": "00:30",
+    "links": [
+      {
+        "label": "Copa do Brasil: Grêmio vs CSA\n00:30",
+        "url": "https://pelotalibretv.com#"
+      },
+      {
+        "label": "Amazon Prime VideoCalidad 720p",
+        "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cDQuY29tL2dsb2JhbDEucGhwP3N0cmVhbT1ldmVudG9zNg=="
       }
     ]
   },
