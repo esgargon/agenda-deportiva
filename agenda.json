@@ -208,21 +208,6 @@
   },
   {
     "category": "MLB",
-    "title": "MLB: Minnesota Twins vs Cleveland Guardians",
-    "time": "23:40",
-    "links": [
-      {
-        "label": "MLB: Minnesota Twins vs Cleveland Guardians\n23:40",
-        "url": "https://pelotalibretv.com#"
-      },
-      {
-        "label": "MLBCalidad 720p",
-        "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cDQuY29tL2dsb2JhbDEucGhwP3N0cmVhbT1tbGIxMA=="
-      }
-    ]
-  },
-  {
-    "category": "MLB",
     "title": "MLB: St. Louis Cardinals vs Detroit Tigers",
     "time": "23:40",
     "links": [
@@ -289,6 +274,10 @@
       {
         "label": "NBA: Oklahoma City Thunder vs Minnesota Timberwolves\n00:30",
         "url": "https://pelotalibretv.com#"
+      },
+      {
+        "label": "ESPN 2Calidad 720p",
+        "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cDQuY29tL2dsb2JhbDEucGhwP3N0cmVhbT1tYXgx"
       },
       {
         "label": "NBACalidad 720p",
