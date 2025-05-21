@@ -1,24 +1,5 @@
 [
   {
-    "category": "ARA",
-    "title": "Liga Profesional: Al Nassr vs Al Khaleej",
-    "time": "16:10",
-    "links": [
-      {
-        "label": "Liga Profesional: Al Nassr vs Al Khaleej\n16:10",
-        "url": "https://pelotalibretv.com#"
-      },
-      {
-        "label": "Win SportsCalidad 720p",
-        "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cDQuY29tL2dsb2JhbDEucGhwP3N0cmVhbT13aW5zcG9ydHM="
-      },
-      {
-        "label": "Fox Deportes USACalidad 720p",
-        "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cDQuY29tL2dsb2JhbDEucGhwP3N0cmVhbT1mb3hfZGVwb3J0ZXNfdXNh"
-      }
-    ]
-  },
-  {
     "category": "MLB",
     "title": "MLB: Pittsburgh Pirates vs Cincinnati Reds",
     "time": "16:30",
@@ -30,21 +11,6 @@
       {
         "label": "MLBCalidad 720p",
         "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cDQuY29tL2dsb2JhbDEucGhwP3N0cmVhbT1tbGIx"
-      }
-    ]
-  },
-  {
-    "category": "HOL",
-    "title": "Eredivisie: Dordrecht vs Willem II",
-    "time": "16:40",
-    "links": [
-      {
-        "label": "Eredivisie: Dordrecht vs Willem II\n16:40",
-        "url": "https://pelotalibretv.com#"
-      },
-      {
-        "label": "ESPN 1 NLCalidad 720p",
-        "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cDQuY29tL2dsb2JhbDEucGhwP3N0cmVhbT1lc3BuX25sMQ=="
       }
     ]
   },
@@ -124,21 +90,6 @@
       {
         "label": "Caliente TVCalidad 720p",
         "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cDQuY29tL2dsb2JhbDEucGhwP3N0cmVhbT1jYWxpZW50ZXR2bXg="
-      }
-    ]
-  },
-  {
-    "category": "ARA",
-    "title": "Liga Profesional: Al Wehda vs Al Hilal",
-    "time": "18:00",
-    "links": [
-      {
-        "label": "Liga Profesional: Al Wehda vs Al Hilal\n18:00",
-        "url": "https://pelotalibretv.com#"
-      },
-      {
-        "label": "Fox Deportes USACalidad 720p",
-        "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cDQuY29tL2dsb2JhbDEucGhwP3N0cmVhbT1mb3hfZGVwb3J0ZXNfdXNh"
       }
     ]
   },
