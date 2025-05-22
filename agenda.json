@@ -135,6 +135,10 @@
       {
         "label": "Copa do Brasil: Palmeiras vs Ceará\n22:30",
         "url": "https://pelotalibretv.com#"
+      },
+      {
+        "label": "Amazon Prime VideoCalidad 720p",
+        "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cDQuY29tL2dsb2JhbDEucGhwP3N0cmVhbT1ldmVudG9zNg=="
       }
     ]
   },
@@ -146,6 +150,10 @@
       {
         "label": "Copa do Brasil: Vila Nova vs Cruzeiro\n22:00",
         "url": "https://pelotalibretv.com#"
+      },
+      {
+        "label": "Premiere 1 BRCalidad 720p",
+        "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cDQuY29tL2dsb2JhbDEucGhwP3N0cmVhbT1wcmVtaWVyZTE="
       }
     ]
   },
@@ -256,16 +264,28 @@
   },
   {
     "category": "NBA",
-    "title": "NBA: Oklahoma City Thunder vs Minnesota Timberwolves",
+    "title": "NBA: Oklahoma City Thunder vs Minnesota Timberwolves | Semifinal de Conferencia",
     "time": "00:30",
     "links": [
       {
-        "label": "NBA: Oklahoma City Thunder vs Minnesota Timberwolves\n00:30",
+        "label": "NBA: Oklahoma City Thunder vs Minnesota Timberwolves | Semifinal de Conferencia\n00:30",
         "url": "https://pelotalibretv.com#"
+      },
+      {
+        "label": "ESPN 2Calidad 720p",
+        "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cDQuY29tL2dsb2JhbDEucGhwP3N0cmVhbT1lc3BuMg=="
+      },
+      {
+        "label": "TSN 1 CACalidad 720p",
+        "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cDQuY29tL2dsb2JhbDEucGhwP3N0cmVhbT10c24x"
       },
       {
         "label": "NBACalidad 720p",
         "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cDQuY29tL2dsb2JhbDEucGhwP3N0cmVhbT1uYmEx"
+      },
+      {
+        "label": "TNT 1 GBCalidad 720p",
+        "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cDQuY29tL2dsb2JhbDEucGhwP3N0cmVhbT10bnRfMV9nYg=="
       }
     ]
   },
@@ -277,6 +297,10 @@
       {
         "label": "Copa do Brasil: Capital Brasilia vs Botafogo\n00:30",
         "url": "https://pelotalibretv.com#"
+      },
+      {
+        "label": "Premiere 1 BRCalidad 720p",
+        "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cDQuY29tL2dsb2JhbDEucGhwP3N0cmVhbT1wcmVtaWVyZTE="
       }
     ]
   },
@@ -303,6 +327,10 @@
       {
         "label": "Copa do Brasil: CRB vs Santos\n00:30",
         "url": "https://pelotalibretv.com#"
+      },
+      {
+        "label": "Amazon Prime VideoCalidad 720p",
+        "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cDQuY29tL2dsb2JhbDEucGhwP3N0cmVhbT1ldmVudG9zNw=="
       }
     ]
   },
