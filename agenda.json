@@ -1,50 +1,5 @@
 [
   {
-    "category": "MLB",
-    "title": "MLB: New York Yankees vs Texas Rangers",
-    "time": "16:30",
-    "links": [
-      {
-        "label": "MLB: New York Yankees vs Texas Rangers\n16:30",
-        "url": "https://pelotalibretv.com#"
-      },
-      {
-        "label": "MLBCalidad 720p",
-        "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cDQuY29tL2dsb2JhbDEucGhwP3N0cmVhbT1tbGIx"
-      }
-    ]
-  },
-  {
-    "category": "MLB",
-    "title": "MLB: Toronto Blue Jays vs San Diego Padres",
-    "time": "17:00",
-    "links": [
-      {
-        "label": "MLB: Toronto Blue Jays vs San Diego Padres\n17:00",
-        "url": "https://pelotalibretv.com#"
-      },
-      {
-        "label": "MLBCalidad 720p",
-        "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cDQuY29tL2dsb2JhbDEucGhwP3N0cmVhbT1tbGIy"
-      }
-    ]
-  },
-  {
-    "category": "ALE",
-    "title": "Bundesliga: Heidenheim vs Elversberg",
-    "time": "18:30",
-    "links": [
-      {
-        "label": "Bundesliga: Heidenheim vs Elversberg\n18:30",
-        "url": "https://pelotalibretv.com#"
-      },
-      {
-        "label": "Disney+Calidad 720p",
-        "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cDQuY29tL2dsb2JhbDEucGhwP3N0cmVhbT1kaXNuZXky"
-      }
-    ]
-  },
-  {
     "category": "HOL",
     "title": "Eredivisie: Twente vs NEC",
     "time": "19:00",
