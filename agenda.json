@@ -1,36 +1,6 @@
 [
   {
     "category": "MLB",
-    "title": "MLB: Colorado Rockies vs Philadelphia Phillies",
-    "time": "00:40",
-    "links": [
-      {
-        "label": "MLB: Colorado Rockies vs Philadelphia Phillies\n00:40",
-        "url": "https://pelotalibretv.com#"
-      },
-      {
-        "label": "MLBCalidad 720p",
-        "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cDQuY29tL2dsb2JhbDEucGhwP3N0cmVhbT1tbGIxNA=="
-      }
-    ]
-  },
-  {
-    "category": "COSTARICA",
-    "title": "Primera División: Alajuelense vs Deportivo Saprissa",
-    "time": "02:00",
-    "links": [
-      {
-        "label": "Primera División: Alajuelense vs Deportivo Saprissa\n02:00",
-        "url": "https://pelotalibretv.com#"
-      },
-      {
-        "label": "FUTVCalidad 720p",
-        "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cDQuY29tL2dsb2JhbDEucGhwP3N0cmVhbT1mdXR2"
-      }
-    ]
-  },
-  {
-    "category": "MLB",
     "title": "MLB: Athletics vs Los Angeles Angels",
     "time": "02:00",
     "links": [
@@ -56,21 +26,6 @@
       {
         "label": "Disney+Calidad 720p",
         "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cDQuY29tL2dsb2JhbDEucGhwP3N0cmVhbT1kaXNuZXk3"
-      }
-    ]
-  },
-  {
-    "category": "CONCACAFLIGAD",
-    "title": "CONCACAF W Champions Cup: Tigres UANL vs Portland Thorns",
-    "time": "02:30",
-    "links": [
-      {
-        "label": "CONCACAF W Champions Cup: Tigres UANL vs Portland Thorns\n02:30",
-        "url": "https://pelotalibretv.com#"
-      },
-      {
-        "label": "Disney+Calidad 720p",
-        "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cDQuY29tL2dsb2JhbDEucGhwP3N0cmVhbT1kaXNuZXk0"
       }
     ]
   }
