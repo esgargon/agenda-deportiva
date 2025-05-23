@@ -1,35 +1,5 @@
 [
   {
-    "category": "PADEL",
-    "title": "Premier Padel: Premier Padel: Asunción - Secondary Court (Cuartos de final]",
-    "time": "17:00",
-    "links": [
-      {
-        "label": "Premier Padel: Premier Padel: Asunción - Secondary Court (Cuartos de final]\n17:00",
-        "url": "https://pelotalibretv.com#"
-      },
-      {
-        "label": "Disney+Calidad 720p",
-        "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cDQuY29tL2dsb2JhbDEucGhwP3N0cmVhbT1kaXNuZXkxMQ=="
-      }
-    ]
-  },
-  {
-    "category": "HOL",
-    "title": "Eredivisie: Telstar vs Den Bosch",
-    "time": "18:00",
-    "links": [
-      {
-        "label": "Eredivisie: Telstar vs Den Bosch\n18:00",
-        "url": "https://pelotalibretv.com#"
-      },
-      {
-        "label": "ESPN 1 NLCalidad 720p",
-        "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cDQuY29tL2dsb2JhbDEucGhwP3N0cmVhbT1lc3BuX25sMQ=="
-      }
-    ]
-  },
-  {
     "category": "IT",
     "title": "Serie A: Como vs Inter",
     "time": "18:40",
@@ -246,21 +216,6 @@
       {
         "label": "MLBCalidad 720p",
         "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cDQuY29tL2dsb2JhbDEucGhwP3N0cmVhbT1tbGI2"
-      }
-    ]
-  },
-  {
-    "category": "MLB",
-    "title": "MLB: New York Mets vs Los Angeles Dodgers",
-    "time": "23:10",
-    "links": [
-      {
-        "label": "MLB: New York Mets vs Los Angeles Dodgers\n23:10",
-        "url": "https://pelotalibretv.com#"
-      },
-      {
-        "label": "MLBCalidad 720p",
-        "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cDQuY29tL2dsb2JhbDEucGhwP3N0cmVhbT1tbGI3"
       }
     ]
   },
