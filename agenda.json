@@ -1,20 +1,5 @@
 [
   {
-    "category": "AR",
-    "title": "Primera B Metropolitana: Real Pilar vs Sacachispas",
-    "time": "20:00",
-    "links": [
-      {
-        "label": "Primera B Metropolitana: Real Pilar vs Sacachispas\n20:00",
-        "url": "https://pelotalibretv.com#"
-      },
-      {
-        "label": "TyC SportsCalidad 720p",
-        "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cDQuY29tL2dsb2JhbDEucGhwP3N0cmVhbT10eWNzcG9ydHM="
-      }
-    ]
-  },
-  {
     "category": "MLB",
     "title": "MLB: Boston Red Sox vs Baltimore Orioles",
     "time": "20:30",
@@ -26,6 +11,36 @@
       {
         "label": "MLBCalidad 720p",
         "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cDQuY29tL2dsb2JhbDEucGhwP3N0cmVhbT1tbGIx"
+      }
+    ]
+  },
+  {
+    "category": "ECUA",
+    "title": "Primera A: Independiente del Valle vs Mushuc Runa",
+    "time": "21:30",
+    "links": [
+      {
+        "label": "Primera A: Independiente del Valle vs Mushuc Runa\n21:30",
+        "url": "https://pelotalibretv.com#"
+      },
+      {
+        "label": "ECDFCalidad 720p",
+        "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cDQuY29tL2dsb2JhbDEucGhwP3N0cmVhbT1lY2Rm"
+      }
+    ]
+  },
+  {
+    "category": "CH",
+    "title": "Primera División: Deportes Limache vs Universidad Chile",
+    "time": "22:00",
+    "links": [
+      {
+        "label": "Primera División: Deportes Limache vs Universidad Chile\n22:00",
+        "url": "https://pelotalibretv.com#"
+      },
+      {
+        "label": "MAXCalidad 720p",
+        "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cDQuY29tL2dsb2JhbDEucGhwP3N0cmVhbT1tYXgx"
       }
     ]
   },
@@ -150,6 +165,25 @@
     ]
   },
   {
+    "category": "COL",
+    "title": "Primera A: Deportivo Pereira vs La Equidad",
+    "time": "23:30",
+    "links": [
+      {
+        "label": "Primera A: Deportivo Pereira vs La Equidad\n23:30",
+        "url": "https://pelotalibretv.com#"
+      },
+      {
+        "label": "Win Sports +Calidad 720p",
+        "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cDQuY29tL2dsb2JhbDEucGhwP3N0cmVhbT13aW5wbHVz"
+      },
+      {
+        "label": "Win Sports + (Op2]Calidad 720p",
+        "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cDQuY29tL2dsb2JhbDEucGhwP3N0cmVhbT13aW5wbHVzMg=="
+      }
+    ]
+  },
+  {
     "category": "URU",
     "title": "Primera Division: Nacional vs Progreso",
     "time": "23:30",
@@ -228,7 +262,7 @@
       },
       {
         "label": "Disney+Calidad 720p",
-        "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cDQuY29tL2dsb2JhbDEucGhwP3N0cmVhbT1uYmEx"
+        "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cDQuY29tL2dsb2JhbDEucGhwP3N0cmVhbT1kaXNuZXk3"
       }
     ]
   },
