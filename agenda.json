@@ -1,77 +1,5 @@
 [
   {
-    "category": "F1",
-    "title": "FI: FI GP Mónaco, práctica #2",
-    "time": "14:30",
-    "links": [
-      {
-        "label": "FI: FI GP Mónaco, práctica #2\n14:30",
-        "url": "https://pelotalibretv.com#"
-      },
-      {
-        "label": "ESPN Deportes USACalidad 720p",
-        "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cDQuY29tL2dsb2JhbDEucGhwP3N0cmVhbT1lc3BuZGVwb3J0ZXM="
-      },
-      {
-        "label": "Fox Sports PremiumCalidad 720p",
-        "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cDQuY29tL2dsb2JhbDEucGhwP3N0cmVhbT1mb3hzcG9ydHNwcmVtaXVt"
-      },
-      {
-        "label": "Fox Sports 1Calidad 720p",
-        "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cDQuY29tL2dsb2JhbDEucGhwP3N0cmVhbT1mb3gxYXI="
-      },
-      {
-        "label": "Disney+Calidad 720p",
-        "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cDQuY29tL2dsb2JhbDEucGhwP3N0cmVhbT1kaXNuZXkxOQ=="
-      }
-    ]
-  },
-  {
-    "category": "F1",
-    "title": "F1: F1 GP Mónaco, práctica #2 | On Board Colapinto",
-    "time": "15:00",
-    "links": [
-      {
-        "label": "F1: F1 GP Mónaco, práctica #2 | On Board Colapinto\n15:00",
-        "url": "https://pelotalibretv.com#"
-      },
-      {
-        "label": "Disney+Calidad 720p",
-        "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cDQuY29tL2dsb2JhbDEucGhwP3N0cmVhbT1kaXNuZXkxNQ=="
-      }
-    ]
-  },
-  {
-    "category": "F1",
-    "title": "F1: F1 GP Mónaco, práctica #2 | Cámara On Board",
-    "time": "15:00",
-    "links": [
-      {
-        "label": "F1: F1 GP Mónaco, práctica #2 | Cámara On Board\n15:00",
-        "url": "https://pelotalibretv.com#"
-      },
-      {
-        "label": "Disney+Calidad 720p",
-        "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cDQuY29tL2dsb2JhbDEucGhwP3N0cmVhbT1kaXNuZXkxNw=="
-      }
-    ]
-  },
-  {
-    "category": "F1",
-    "title": "F1: F1 GP Mónaco, práctica #2 | On Board Lecler",
-    "time": "15:00",
-    "links": [
-      {
-        "label": "F1: F1 GP Mónaco, práctica #2 | On Board Lecler\n15:00",
-        "url": "https://pelotalibretv.com#"
-      },
-      {
-        "label": "Disney+Calidad 720p",
-        "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cDQuY29tL2dsb2JhbDEucGhwP3N0cmVhbT1kaXNuZXkxNg=="
-      }
-    ]
-  },
-  {
     "category": "PADEL",
     "title": "Premier Padel: Premier Padel: Asunción - Secondary Court (Cuartos de final]",
     "time": "17:00",
@@ -98,6 +26,91 @@
       {
         "label": "ESPN 1 NLCalidad 720p",
         "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cDQuY29tL2dsb2JhbDEucGhwP3N0cmVhbT1lc3BuX25sMQ=="
+      }
+    ]
+  },
+  {
+    "category": "IT",
+    "title": "Serie A: Como vs Inter",
+    "time": "18:40",
+    "links": [
+      {
+        "label": "Serie A: Como vs Inter\n18:40",
+        "url": "https://pelotalibretv.com#"
+      },
+      {
+        "label": "Disney+Calidad 720p",
+        "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cDQuY29tL2dsb2JhbDEucGhwP3N0cmVhbT1kaXNuZXky"
+      },
+      {
+        "label": "ESPN 2Calidad 720p",
+        "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cDQuY29tL2dsb2JhbDEucGhwP3N0cmVhbT1lc3BuMg=="
+      },
+      {
+        "label": "ESPN 4 BRCalidad 720p",
+        "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cDQuY29tL2dsb2JhbDEucGhwP3N0cmVhbT1lc3BuNGJy"
+      }
+    ]
+  },
+  {
+    "category": "IT",
+    "title": "Serie A: Napoli vs Cagliari",
+    "time": "18:40",
+    "links": [
+      {
+        "label": "Serie A: Napoli vs Cagliari\n18:40",
+        "url": "https://pelotalibretv.com#"
+      },
+      {
+        "label": "ESPN 1Calidad 720p",
+        "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cDQuY29tL2dsb2JhbDEucGhwP3N0cmVhbT1lc3Bu"
+      },
+      {
+        "label": "Disney+Calidad 720p",
+        "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cDQuY29tL2dsb2JhbDEucGhwP3N0cmVhbT1kaXNuZXkz"
+      },
+      {
+        "label": "ESPN 1 BRCalidad 720p",
+        "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cDQuY29tL2dsb2JhbDEucGhwP3N0cmVhbT1lc3BuMWJy"
+      },
+      {
+        "label": "ESPN 2 MXCalidad 720p",
+        "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cDQuY29tL2dsb2JhbDEucGhwP3N0cmVhbT1lc3BuMm14"
+      },
+      {
+        "label": "Fox Deportes USACalidad 720p",
+        "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cDQuY29tL2dsb2JhbDEucGhwP3N0cmVhbT1mb3hfZGVwb3J0ZXNfdXNh"
+      }
+    ]
+  },
+  {
+    "category": "ES",
+    "title": "LaLiga: Real Betis vs Valencia",
+    "time": "19:00",
+    "links": [
+      {
+        "label": "LaLiga: Real Betis vs Valencia\n19:00",
+        "url": "https://pelotalibretv.com#"
+      },
+      {
+        "label": "ESPN 3Calidad 720p",
+        "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cDQuY29tL2dsb2JhbDEucGhwP3N0cmVhbT1lc3BuMw=="
+      },
+      {
+        "label": "Disney+Calidad 720p",
+        "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cDQuY29tL2dsb2JhbDEucGhwP3N0cmVhbT1kaXNuZXk0"
+      },
+      {
+        "label": "ESPN Deportes USACalidad 720p",
+        "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cDQuY29tL2dsb2JhbDEucGhwP3N0cmVhbT1lc3BuZGVwb3J0ZXM="
+      },
+      {
+        "label": "ESPN+ | EspañolCalidad 720p",
+        "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cDQuY29tL2dsb2JhbDEucGhwP3N0cmVhbT1lc3BucGx1czE="
+      },
+      {
+        "label": "ESPN+ | EnglishCalidad 720p",
+        "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cDQuY29tL2dsb2JhbDEucGhwP3N0cmVhbT1lc3BucGx1czI="
       }
     ]
   },
