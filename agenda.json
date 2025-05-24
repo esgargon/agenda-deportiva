@@ -1,20 +1,5 @@
 [
   {
-    "category": "ATP",
-    "title": "ATP: Hubert Hurkacz (POL]vs. Novak Djokovic (SRB] (Final]",
-    "time": "13:00",
-    "links": [
-      {
-        "label": "ATP: Hubert Hurkacz (POL]vs. Novak Djokovic (SRB] (Final]\n13:00",
-        "url": "https://pelotalibretv.com#"
-      },
-      {
-        "label": "Disney+Calidad 720p",
-        "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cDQuY29tL2dsb2JhbDEucGhwP3N0cmVhbT1kaXNuZXk2"
-      }
-    ]
-  },
-  {
     "category": "F1",
     "title": "F1: F1 GP Mónaco, clasificación Con Tornello, Fossaroli y López",
     "time": "13:00",
@@ -34,51 +19,6 @@
       {
         "label": "Disney+Calidad 720p",
         "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cDQuY29tL2dsb2JhbDEucGhwP3N0cmVhbT1kaXNuZXkxNg=="
-      }
-    ]
-  },
-  {
-    "category": "F1",
-    "title": "F1: FI GP Mónaco, clasificación | On Board Colapinto",
-    "time": "14:00",
-    "links": [
-      {
-        "label": "F1: FI GP Mónaco, clasificación | On Board Colapinto\n14:00",
-        "url": "https://pelotalibretv.com#"
-      },
-      {
-        "label": "Disney+Calidad 720p",
-        "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cDQuY29tL2dsb2JhbDEucGhwP3N0cmVhbT1kaXNuZXk4"
-      }
-    ]
-  },
-  {
-    "category": "F1",
-    "title": "F1: FI GP Mónaco, clasificación | On Board Leclerc",
-    "time": "14:00",
-    "links": [
-      {
-        "label": "F1: FI GP Mónaco, clasificación | On Board Leclerc\n14:00",
-        "url": "https://pelotalibretv.com#"
-      },
-      {
-        "label": "Disney+Calidad 720p",
-        "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cDQuY29tL2dsb2JhbDEucGhwP3N0cmVhbT1kaXNuZXk5"
-      }
-    ]
-  },
-  {
-    "category": "F1",
-    "title": "F1: F1 GP Mónaco, clasificación | Camara On Board",
-    "time": "14:00",
-    "links": [
-      {
-        "label": "F1: F1 GP Mónaco, clasificación | Camara On Board\n14:00",
-        "url": "https://pelotalibretv.com#"
-      },
-      {
-        "label": "Disney+Calidad 720p",
-        "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cDQuY29tL2dsb2JhbDEucGhwP3N0cmVhbT1kaXNuZXkxMA=="
       }
     ]
   },
