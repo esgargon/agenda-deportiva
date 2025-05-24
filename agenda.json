@@ -28,50 +28,5 @@
         "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cDQuY29tL2dsb2JhbDEucGhwP3N0cmVhbT1tYXgx"
       }
     ]
-  },
-  {
-    "category": "MLB",
-    "title": "MLB: Los Angeles Angels vs Miami Marlins",
-    "time": "01:30",
-    "links": [
-      {
-        "label": "MLB: Los Angeles Angels vs Miami Marlins\n01:30",
-        "url": "https://pelotalibretv.com#"
-      },
-      {
-        "label": "MLBCalidad 720p",
-        "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cDQuY29tL2dsb2JhbDEucGhwP3N0cmVhbT1tbGIxNA=="
-      }
-    ]
-  },
-  {
-    "category": "MLB",
-    "title": "MLB: Athletics vs Philadelphia Phillies",
-    "time": "02:00",
-    "links": [
-      {
-        "label": "MLB: Athletics vs Philadelphia Phillies\n02:00",
-        "url": "https://pelotalibretv.com#"
-      },
-      {
-        "label": "MLBCalidad 720p",
-        "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cDQuY29tL2dsb2JhbDEucGhwP3N0cmVhbT1tbGIxNQ=="
-      }
-    ]
-  },
-  {
-    "category": "BOX",
-    "title": "ESPN KO: Willibaldo García Pérez vs. René Calixto Bibiano",
-    "time": "02:00",
-    "links": [
-      {
-        "label": "ESPN KO: Willibaldo García Pérez vs. René Calixto Bibiano\n02:00",
-        "url": "https://pelotalibretv.com#"
-      },
-      {
-        "label": "Disney+Calidad 720p",
-        "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cDQuY29tL2dsb2JhbDEucGhwP3N0cmVhbT1kaXNuZXk4"
-      }
-    ]
   }
 ]
