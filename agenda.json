@@ -75,55 +75,6 @@
     ]
   },
   {
-    "category": "PE",
-    "title": "Primera Division: ADT vs Ayacucho",
-    "time": "18:00",
-    "links": [
-      {
-        "label": "Primera Division: ADT vs Ayacucho\n18:00",
-        "url": "https://pelotalibretv.com#"
-      },
-      {
-        "label": "Liga1maxCalidad 720p",
-        "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cDQuY29tL2dsb2JhbDEucGhwP3N0cmVhbT1saWdhMW1heA=="
-      }
-    ]
-  },
-  {
-    "category": "ECUA",
-    "title": "Primera A: Libertad vs Macará",
-    "time": "18:00",
-    "links": [
-      {
-        "label": "Primera A: Libertad vs Macará\n18:00",
-        "url": "https://pelotalibretv.com#"
-      },
-      {
-        "label": "ECDFCalidad 720p",
-        "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cDQuY29tL2dsb2JhbDEucGhwP3N0cmVhbT1lY2Rm"
-      }
-    ]
-  },
-  {
-    "category": "URU",
-    "title": "Primera Division: Liverpool vs Cerro",
-    "time": "18:00",
-    "links": [
-      {
-        "label": "Primera Division: Liverpool vs Cerro\n18:00",
-        "url": "https://pelotalibretv.com#"
-      },
-      {
-        "label": "Disney+Calidad 720p",
-        "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cDQuY29tL2dsb2JhbDEucGhwP3N0cmVhbT1kaXNuZXk4"
-      },
-      {
-        "label": "GOLTVCalidad 720p",
-        "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cDQuY29tL2dsb2JhbDEucGhwP3N0cmVhbT1nb2x0dg=="
-      }
-    ]
-  },
-  {
     "category": "MLB",
     "title": "MLB: Chicago White Sox vs Texas Rangers",
     "time": "18:10",
@@ -553,6 +504,10 @@
       {
         "label": "Primera A: Millonarios vs Boyacá Chicó\n21:00",
         "url": "https://pelotalibretv.com#"
+      },
+      {
+        "label": "Win Sports +Calidad 720p",
+        "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cDQuY29tL2dsb2JhbDEucGhwP3N0cmVhbT13aW5wbHVz"
       },
       {
         "label": "Win PlayCalidad 720p",
