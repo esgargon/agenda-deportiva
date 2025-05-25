@@ -1,20 +1,5 @@
 [
   {
-    "category": "MLB",
-    "title": "MLB: Detroit Tigers vs Cleveland Guardians",
-    "time": "15:30",
-    "links": [
-      {
-        "label": "MLB: Detroit Tigers vs Cleveland Guardians\n15:30",
-        "url": "https://pelotalibretv.com#"
-      },
-      {
-        "label": "MLBCalidad 720p",
-        "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cDQuY29tL2dsb2JhbDEucGhwP3N0cmVhbT1tbGIx"
-      }
-    ]
-  },
-  {
     "category": "INDYCAR",
     "title": "IndyCar: 109th Indianapolis 500 IndyCar Series",
     "time": "16:30",
@@ -26,21 +11,6 @@
       {
         "label": "Disney+Calidad 720p",
         "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cDQuY29tL2dsb2JhbDEucGhwP3N0cmVhbT1kaXNuZXkx"
-      }
-    ]
-  },
-  {
-    "category": "AR",
-    "title": "Primera B Nacional: Colegiales vs Deportivo Maipú",
-    "time": "17:00",
-    "links": [
-      {
-        "label": "Primera B Nacional: Colegiales vs Deportivo Maipú\n17:00",
-        "url": "https://pelotalibretv.com#"
-      },
-      {
-        "label": "TyC SportsCalidad 720p",
-        "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cDQuY29tL2dsb2JhbDEucGhwP3N0cmVhbT10eWNzcG9ydHM="
       }
     ]
   },
