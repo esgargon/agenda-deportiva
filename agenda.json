@@ -15,36 +15,6 @@
     ]
   },
   {
-    "category": "NHL",
-    "title": "NHL: Edmonton Oilers vs Dallas Stars",
-    "time": "19:00",
-    "links": [
-      {
-        "label": "NHL: Edmonton Oilers vs Dallas Stars\n19:00",
-        "url": "https://pelotalibretv.com#"
-      },
-      {
-        "label": "Disney+Calidad 720p",
-        "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cDQuY29tL2dsb2JhbDEucGhwP3N0cmVhbT1kaXNuZXkxNg=="
-      }
-    ]
-  },
-  {
-    "category": "MLB",
-    "title": "MLB: Colorado Rockies vs New York Yankees",
-    "time": "19:10",
-    "links": [
-      {
-        "label": "MLB: Colorado Rockies vs New York Yankees\n19:10",
-        "url": "https://pelotalibretv.com#"
-      },
-      {
-        "label": "MLBCalidad 720p",
-        "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cDQuY29tL2dsb2JhbDEucGhwP3N0cmVhbT1tbGIxMQ=="
-      }
-    ]
-  },
-  {
     "category": "MLB",
     "title": "MLB: Los Angeles Angels vs Miami Marlins",
     "time": "20:00",
@@ -75,21 +45,6 @@
     ]
   },
   {
-    "category": "PE",
-    "title": "Primera Division: Los Chankas vs Alianza Atlético",
-    "time": "20:10",
-    "links": [
-      {
-        "label": "Primera Division: Los Chankas vs Alianza Atlético\n20:10",
-        "url": "https://pelotalibretv.com#"
-      },
-      {
-        "label": "Liga1maxCalidad 720p",
-        "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cDQuY29tL2dsb2JhbDEucGhwP3N0cmVhbT1saWdhMW1heA=="
-      }
-    ]
-  },
-  {
     "category": "MLB",
     "title": "MLB: Atlanta Braves vs San Diego Padres",
     "time": "20:10",
@@ -101,40 +56,6 @@
       {
         "label": "MLBCalidad 720p",
         "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cDQuY29tL2dsb2JhbDEucGhwP3N0cmVhbT1tbGIxNA=="
-      }
-    ]
-  },
-  {
-    "category": "ECUA",
-    "title": "Primera A: Técnico Universitario vs Delfin",
-    "time": "20:30",
-    "links": [
-      {
-        "label": "Primera A: Técnico Universitario vs Delfin\n20:30",
-        "url": "https://pelotalibretv.com#"
-      },
-      {
-        "label": "ECDFCalidad 720p",
-        "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cDQuY29tL2dsb2JhbDEucGhwP3N0cmVhbT1lY2Rm"
-      }
-    ]
-  },
-  {
-    "category": "URU",
-    "title": "Primera Division: Wanderers vs River Plate",
-    "time": "20:30",
-    "links": [
-      {
-        "label": "Primera Division: Wanderers vs River Plate\n20:30",
-        "url": "https://pelotalibretv.com#"
-      },
-      {
-        "label": "Disney+Calidad 720p",
-        "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cDQuY29tL2dsb2JhbDEucGhwP3N0cmVhbT1kaXNuZXkxNw=="
-      },
-      {
-        "label": "GOLTVCalidad 720p",
-        "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cDQuY29tL2dsb2JhbDEucGhwP3N0cmVhbT1nb2x0dg=="
       }
     ]
   },
