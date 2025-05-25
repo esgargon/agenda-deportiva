@@ -1,20 +1,5 @@
 [
   {
-    "category": "INDYCAR",
-    "title": "IndyCar: 109th Indianapolis 500 IndyCar Series",
-    "time": "16:30",
-    "links": [
-      {
-        "label": "IndyCar: 109th Indianapolis 500 IndyCar Series\n16:30",
-        "url": "https://pelotalibretv.com#"
-      },
-      {
-        "label": "Disney+Calidad 720p",
-        "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cDQuY29tL2dsb2JhbDEucGhwP3N0cmVhbT1kaXNuZXkx"
-      }
-    ]
-  },
-  {
     "category": "MLB",
     "title": "MLB: Boston Red Sox vs Baltimore Orioles",
     "time": "17:30",
@@ -793,6 +778,14 @@
       {
         "label": "NBA: Indiana Pacers vs New York Knicks\n00:00",
         "url": "https://pelotalibretv.com#"
+      },
+      {
+        "label": "Disney+Calidad 720p",
+        "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cDQuY29tL2dsb2JhbDEucGhwP3N0cmVhbT1kaXNuZXky"
+      },
+      {
+        "label": "TNT 1 GBCalidad 720p",
+        "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cDQuY29tL2dsb2JhbDEucGhwP3N0cmVhbT10bnRfMV9nYg=="
       },
       {
         "label": "NBACalidad 720p",
