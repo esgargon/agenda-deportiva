@@ -1,20 +1,5 @@
 [
   {
-    "category": "MOTOGP",
-    "title": "MotoGP: MotoGP Race - Tissot Grand Prix of the United Kingdom",
-    "time": "10:00",
-    "links": [
-      {
-        "label": "MotoGP: MotoGP Race - Tissot Grand Prix of the United Kingdom\n10:00",
-        "url": "https://pelotalibretv.com#"
-      },
-      {
-        "label": "Disney+Calidad 720p",
-        "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cDQuY29tL2dsb2JhbDEucGhwP3N0cmVhbT1kaXNuZXkxNQ=="
-      }
-    ]
-  },
-  {
     "category": "F1",
     "title": "F1: FI - GP Mónaco - Carrera Formula",
     "time": "11:30",
@@ -38,48 +23,6 @@
       {
         "label": "ESPN Deportes USACalidad 720p",
         "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cDQuY29tL2dsb2JhbDEucGhwP3N0cmVhbT1lc3BuZGVwb3J0ZXM="
-      }
-    ]
-  },
-  {
-    "category": "ES",
-    "title": "LaLiga: Girona vs Atlético Madrid",
-    "time": "12:00",
-    "links": [
-      {
-        "label": "LaLiga: Girona vs Atlético Madrid\n12:00",
-        "url": "https://pelotalibretv.com#"
-      },
-      {
-        "label": "ESPN 4Calidad 720p",
-        "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cDQuY29tL2dsb2JhbDEucGhwP3N0cmVhbT1lc3BuNA=="
-      },
-      {
-        "label": "Disney+Calidad 720p",
-        "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cDQuY29tL2dsb2JhbDEucGhwP3N0cmVhbT1kaXNuZXkx"
-      },
-      {
-        "label": "ESPN+ | EspañolCalidad 720p",
-        "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cDQuY29tL2dsb2JhbDEucGhwP3N0cmVhbT1lc3BucGx1czE="
-      },
-      {
-        "label": "ESPN+ | EnglishCalidad 720p",
-        "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cDQuY29tL2dsb2JhbDEucGhwP3N0cmVhbT1lc3BucGx1czI="
-      }
-    ]
-  },
-  {
-    "category": "ENG",
-    "title": "League One: Charlton Athletic vs Leyton Orient",
-    "time": "12:00",
-    "links": [
-      {
-        "label": "League One: Charlton Athletic vs Leyton Orient\n12:00",
-        "url": "https://pelotalibretv.com#"
-      },
-      {
-        "label": "Disney+Calidad 720p",
-        "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cDQuY29tL2dsb2JhbDEucGhwP3N0cmVhbT1kaXNuZXky"
       }
     ]
   },
