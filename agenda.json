@@ -15,40 +15,6 @@
     ]
   },
   {
-    "category": "HOL",
-    "title": "Eredivisie: AZ vs Twente",
-    "time": "16:00",
-    "links": [
-      {
-        "label": "Eredivisie: AZ vs Twente\n16:00",
-        "url": "https://pelotalibretv.com#"
-      },
-      {
-        "label": "Disney+Calidad 720p",
-        "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cDQuY29tL2dsb2JhbDEucGhwP3N0cmVhbT1kaXNuZXk0"
-      },
-      {
-        "label": "ESPN 1 NLCalidad 720p",
-        "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cDQuY29tL2dsb2JhbDEucGhwP3N0cmVhbT1lc3BuX25sMQ=="
-      }
-    ]
-  },
-  {
-    "category": "TUR",
-    "title": "Süper Lig: Trabzonspor vs Samsunspor",
-    "time": "16:00",
-    "links": [
-      {
-        "label": "Süper Lig: Trabzonspor vs Samsunspor\n16:00",
-        "url": "https://pelotalibretv.com#"
-      },
-      {
-        "label": "Disney+Calidad 720p",
-        "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cDQuY29tL2dsb2JhbDEucGhwP3N0cmVhbT1kaXNuZXkxNQ=="
-      }
-    ]
-  },
-  {
     "category": "INDYCAR",
     "title": "IndyCar: 109th Indianapolis 500 IndyCar Series",
     "time": "16:30",
@@ -60,66 +26,6 @@
       {
         "label": "Disney+Calidad 720p",
         "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cDQuY29tL2dsb2JhbDEucGhwP3N0cmVhbT1kaXNuZXkx"
-      }
-    ]
-  },
-  {
-    "category": "CH",
-    "title": "Primera Division: Ñublense vs O'Higgins",
-    "time": "16:30",
-    "links": [
-      {
-        "label": "Primera Division: Ñublense vs O'Higgins\n16:30",
-        "url": "https://pelotalibretv.com#"
-      },
-      {
-        "label": "MAXCalidad 720p",
-        "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cDQuY29tL2dsb2JhbDEucGhwP3N0cmVhbT1tYXgz"
-      }
-    ]
-  },
-  {
-    "category": "BEL",
-    "title": "Pro League: Club Brugge vs Antwerp",
-    "time": "16:30",
-    "links": [
-      {
-        "label": "Pro League: Club Brugge vs Antwerp\n16:30",
-        "url": "https://pelotalibretv.com#"
-      },
-      {
-        "label": "Disney+Calidad 720p",
-        "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cDQuY29tL2dsb2JhbDEucGhwP3N0cmVhbT1kaXNuZXkxNg=="
-      }
-    ]
-  },
-  {
-    "category": "BEL",
-    "title": "Pro League: Union Saint-Gilloise vs Gent",
-    "time": "16:30",
-    "links": [
-      {
-        "label": "Pro League: Union Saint-Gilloise vs Gent\n16:30",
-        "url": "https://pelotalibretv.com#"
-      },
-      {
-        "label": "Disney+Calidad 720p",
-        "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cDQuY29tL2dsb2JhbDEucGhwP3N0cmVhbT1kaXNuZXkxNw=="
-      }
-    ]
-  },
-  {
-    "category": "CH",
-    "title": "Primera B: Curicó Unido vs Antofagasta",
-    "time": "16:30",
-    "links": [
-      {
-        "label": "Primera B: Curicó Unido vs Antofagasta\n16:30",
-        "url": "https://pelotalibretv.com#"
-      },
-      {
-        "label": "MAXCalidad 720p",
-        "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cDQuY29tL2dsb2JhbDEucGhwP3N0cmVhbT1ldmVudG9zOA=="
       }
     ]
   },
@@ -464,6 +370,14 @@
         "url": "https://pelotalibretv.com#"
       },
       {
+        "label": "ESPN+ | EspañolCalidad 720p",
+        "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cDQuY29tL2dsb2JhbDEucGhwP3N0cmVhbT1lc3BucGx1czE="
+      },
+      {
+        "label": "ESPN+ | EnglishCalidad 720p",
+        "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cDQuY29tL2dsb2JhbDEucGhwP3N0cmVhbT1lc3BucGx1czI="
+      },
+      {
         "label": "ESPN 1Calidad 720p",
         "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cDQuY29tL2dsb2JhbDEucGhwP3N0cmVhbT1lc3Bu"
       },
@@ -474,14 +388,6 @@
       {
         "label": "ESPN Deportes USACalidad 720p",
         "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cDQuY29tL2dsb2JhbDEucGhwP3N0cmVhbT1lc3BuZGVwb3J0ZXM="
-      },
-      {
-        "label": "ESPN+ | EspañolCalidad 720p",
-        "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cDQuY29tL2dsb2JhbDEucGhwP3N0cmVhbT1lc3BucGx1czE="
-      },
-      {
-        "label": "ESPN+ | EnglishCalidad 720p",
-        "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cDQuY29tL2dsb2JhbDEucGhwP3N0cmVhbT1lc3BucGx1czI="
       }
     ]
   },
