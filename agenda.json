@@ -1,21 +1,6 @@
 [
   {
     "category": "MLB",
-    "title": "MLB: Detroit Tigers vs San Francisco Giants",
-    "time": "17:10",
-    "links": [
-      {
-        "label": "MLB: Detroit Tigers vs San Francisco Giants\n17:10",
-        "url": "https://pelotalibretv.com#"
-      },
-      {
-        "label": "MLBCalidad 720p",
-        "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cDQuY29tL2dsb2JhbDEucGhwP3N0cmVhbT1tbGIx"
-      }
-    ]
-  },
-  {
-    "category": "MLB",
     "title": "MLB: Milwaukee Brewers vs Boston Red Sox",
     "time": "18:10",
     "links": [
@@ -41,21 +26,6 @@
       {
         "label": "MLBCalidad 720p",
         "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cDQuY29tL2dsb2JhbDEucGhwP3N0cmVhbT1tbGIz"
-      }
-    ]
-  },
-  {
-    "category": "ALE",
-    "title": "Bundesliga: Elversberg vs Heidenheim",
-    "time": "18:30",
-    "links": [
-      {
-        "label": "Bundesliga: Elversberg vs Heidenheim\n18:30",
-        "url": "https://pelotalibretv.com#"
-      },
-      {
-        "label": "Disney+Calidad 720p",
-        "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cDQuY29tL2dsb2JhbDEucGhwP3N0cmVhbT1kaXNuZXkz"
       }
     ]
   },
