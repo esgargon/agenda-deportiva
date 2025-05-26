@@ -1,66 +1,6 @@
 [
   {
     "category": "MLB",
-    "title": "MLB: Milwaukee Brewers vs Boston Red Sox",
-    "time": "18:10",
-    "links": [
-      {
-        "label": "MLB: Milwaukee Brewers vs Boston Red Sox\n18:10",
-        "url": "https://pelotalibretv.com#"
-      },
-      {
-        "label": "MLBCalidad 720p",
-        "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cDQuY29tL2dsb2JhbDEucGhwP3N0cmVhbT1tbGIy"
-      }
-    ]
-  },
-  {
-    "category": "MLB",
-    "title": "MLB: Chicago Cubs vs Colorado Rockies",
-    "time": "18:20",
-    "links": [
-      {
-        "label": "MLB: Chicago Cubs vs Colorado Rockies\n18:20",
-        "url": "https://pelotalibretv.com#"
-      },
-      {
-        "label": "MLBCalidad 720p",
-        "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cDQuY29tL2dsb2JhbDEucGhwP3N0cmVhbT1tbGIz"
-      }
-    ]
-  },
-  {
-    "category": "MLB",
-    "title": "MLB: Baltimore Orioles vs St. Louis Cardinals",
-    "time": "19:00",
-    "links": [
-      {
-        "label": "MLB: Baltimore Orioles vs St. Louis Cardinals\n19:00",
-        "url": "https://pelotalibretv.com#"
-      },
-      {
-        "label": "MLBCalidad 720p",
-        "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cDQuY29tL2dsb2JhbDEucGhwP3N0cmVhbT1tbGI0"
-      }
-    ]
-  },
-  {
-    "category": "PY",
-    "title": "Primera Division: Sportivo Ameliano vs Atlético Tembetary",
-    "time": "19:30",
-    "links": [
-      {
-        "label": "Primera Division: Sportivo Ameliano vs Atlético Tembetary\n19:30",
-        "url": "https://pelotalibretv.com#"
-      },
-      {
-        "label": "Tigo SportsCalidad 720p",
-        "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cDQuY29tL2dsb2JhbDEucGhwP3N0cmVhbT1ldmVudG9zOQ=="
-      }
-    ]
-  },
-  {
-    "category": "MLB",
     "title": "MLB: Texas Rangers vs Toronto Blue Jays",
     "time": "20:00",
     "links": [
