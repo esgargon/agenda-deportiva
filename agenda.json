@@ -1,51 +1,6 @@
 [
   {
     "category": "MLB",
-    "title": "MLB: Cleveland Guardians vs Los Angeles Dodgers",
-    "time": "17:10",
-    "links": [
-      {
-        "label": "MLB: Cleveland Guardians vs Los Angeles Dodgers\n17:10",
-        "url": "https://pelotalibretv.com#"
-      },
-      {
-        "label": "MLBCalidad 720p",
-        "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cDQuY29tL2dsb2JhbDEucGhwP3N0cmVhbT1tbGIx"
-      }
-    ]
-  },
-  {
-    "category": "MLB",
-    "title": "MLB: Milwaukee Brewers vs Boston Red Sox",
-    "time": "17:10",
-    "links": [
-      {
-        "label": "MLB: Milwaukee Brewers vs Boston Red Sox\n17:10",
-        "url": "https://pelotalibretv.com#"
-      },
-      {
-        "label": "MLBCalidad 720p",
-        "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cDQuY29tL2dsb2JhbDEucGhwP3N0cmVhbT1tbGIy"
-      }
-    ]
-  },
-  {
-    "category": "MLB",
-    "title": "MLB: Tampa Bay Rays vs Minnesota Twins",
-    "time": "17:10",
-    "links": [
-      {
-        "label": "MLB: Tampa Bay Rays vs Minnesota Twins\n17:10",
-        "url": "https://pelotalibretv.com#"
-      },
-      {
-        "label": "MLBCalidad 720p",
-        "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cDQuY29tL2dsb2JhbDEucGhwP3N0cmVhbT1tbGIz"
-      }
-    ]
-  },
-  {
-    "category": "MLB",
     "title": "MLB: Houston Astros vs Athletics",
     "time": "18:10",
     "links": [
@@ -56,21 +11,6 @@
       {
         "label": "MLBCalidad 720p",
         "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cDQuY29tL2dsb2JhbDEucGhwP3N0cmVhbT1tbGI0"
-      }
-    ]
-  },
-  {
-    "category": "AR",
-    "title": "Torneo de Reserva: Deportivo Riestra Res. vs Godoy Cruz Res.",
-    "time": "18:10",
-    "links": [
-      {
-        "label": "Torneo de Reserva: Deportivo Riestra Res. vs Godoy Cruz Res. \n18:10",
-        "url": "https://pelotalibretv.com#"
-      },
-      {
-        "label": "TNT Sports ArgentinaCalidad 720p",
-        "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cDQuY29tL2dsb2JhbDEucGhwP3N0cmVhbT10bnRzcG9ydHM="
       }
     ]
   },
