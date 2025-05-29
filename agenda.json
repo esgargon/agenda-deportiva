@@ -1,20 +1,5 @@
 [
   {
-    "category": "FUT",
-    "title": "Campeonato Europeo Sub-17: Francia Sub-17 vs Bélgica Sub-17",
-    "time": "16:00",
-    "links": [
-      {
-        "label": "Campeonato Europeo Sub-17: Francia Sub-17 vs Bélgica Sub-17\n16:00",
-        "url": "https://pelotalibretv.com#"
-      },
-      {
-        "label": "Disney+Calidad 720p",
-        "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cDQuY29tL2dsb2JhbDEucGhwP3N0cmVhbT1kaXNuZXkx"
-      }
-    ]
-  },
-  {
     "category": "MLB",
     "title": "MLB: Philadelphia Phillies vs Atlanta Braves",
     "time": "17:00",
@@ -71,25 +56,6 @@
       {
         "label": "Disney+Calidad 720p",
         "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cDQuY29tL2dsb2JhbDEucGhwP3N0cmVhbT1kaXNuZXkz"
-      }
-    ]
-  },
-  {
-    "category": "SUD",
-    "title": "Copa Sudamericana: Grêmio vs Sportivo Luqueño",
-    "time": "22:00",
-    "links": [
-      {
-        "label": "Copa Sudamericana: Grêmio vs Sportivo Luqueño\n22:00",
-        "url": "https://pelotalibretv.com#"
-      },
-      {
-        "label": "ESPN 2Calidad 720p",
-        "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cDQuY29tL2dsb2JhbDEucGhwP3N0cmVhbT1lc3BuMg=="
-      },
-      {
-        "label": "Disney+Calidad 720p",
-        "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cDQuY29tL2dsb2JhbDEucGhwP3N0cmVhbT1kaXNuZXk0"
       }
     ]
   },
