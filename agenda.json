@@ -1,36 +1,6 @@
 [
   {
     "category": "MLB",
-    "title": "MLB: Chicago Cubs vs Cincinnati Reds",
-    "time": "18:20",
-    "links": [
-      {
-        "label": "MLB: Chicago Cubs vs Cincinnati Reds\n18:20",
-        "url": "https://pelotalibretv.com#"
-      },
-      {
-        "label": "MLBCalidad 720p",
-        "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cDQuY29tL2dsb2JhbDEucGhwP3N0cmVhbT1tbGIx"
-      }
-    ]
-  },
-  {
-    "category": "PY",
-    "title": "Primera Division: General Caballero JLM vs Nacional Asunción",
-    "time": "20:00",
-    "links": [
-      {
-        "label": "Primera Division: General Caballero JLM vs Nacional Asunción\n20:00",
-        "url": "https://pelotalibretv.com#"
-      },
-      {
-        "label": "Tigo SportsCalidad 720p",
-        "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cDQuY29tL2dsb2JhbDEucGhwP3N0cmVhbT1ldmVudG9zOQ=="
-      }
-    ]
-  },
-  {
-    "category": "MLB",
     "title": "MLB: Philadelphia Phillies vs Milwaukee Brewers",
     "time": "22:40",
     "links": [
