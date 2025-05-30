@@ -1,62 +1,5 @@
 [
   {
-    "category": "F1",
-    "title": "F1: FI GP España, práctica #2 | Con Tornello, Fossaroli y López",
-    "time": "14:30",
-    "links": [
-      {
-        "label": "F1: FI GP España, práctica #2 | Con Tornello, Fossaroli y López\n14:30",
-        "url": "https://pelotalibretv.com#"
-      },
-      {
-        "label": "ESPN Deportes USACalidad 720p",
-        "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cDQuY29tL2dsb2JhbDEucGhwP3N0cmVhbT1lc3BuZGVwb3J0ZXM="
-      },
-      {
-        "label": "Fox Sports PremiumCalidad 720p",
-        "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cDQuY29tL2dsb2JhbDEucGhwP3N0cmVhbT1mb3hzcG9ydHNwcmVtaXVt"
-      },
-      {
-        "label": "Fox Sports 1Calidad 720p",
-        "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cDQuY29tL2dsb2JhbDEucGhwP3N0cmVhbT1mb3gxYXI="
-      },
-      {
-        "label": "Disney+Calidad 720p",
-        "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cDQuY29tL2dsb2JhbDEucGhwP3N0cmVhbT1kaXNuZXk5"
-      }
-    ]
-  },
-  {
-    "category": "F1",
-    "title": "F1: FI GP España, práctica #2 | On Board Colapinto",
-    "time": "15:00",
-    "links": [
-      {
-        "label": "F1: FI GP España, práctica #2 | On Board Colapinto\n15:00",
-        "url": "https://pelotalibretv.com#"
-      },
-      {
-        "label": "Disney+Calidad 720p",
-        "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cDQuY29tL2dsb2JhbDEucGhwP3N0cmVhbT1kaXNuZXkxMA=="
-      }
-    ]
-  },
-  {
-    "category": "F1",
-    "title": "F1: FI GP España, práctica #2 | On Board Verstappen",
-    "time": "15:00",
-    "links": [
-      {
-        "label": "F1: FI GP España, práctica #2 | On Board Verstappen\n15:00",
-        "url": "https://pelotalibretv.com#"
-      },
-      {
-        "label": "Disney+Calidad 720p",
-        "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cDQuY29tL2dsb2JhbDEucGhwP3N0cmVhbT1kaXNuZXkxMQ=="
-      }
-    ]
-  },
-  {
     "category": "TUR",
     "title": "Süper Lig: Antalyaspor vs Trabzonspor",
     "time": "17:00",
@@ -323,21 +266,6 @@
       {
         "label": "Liga 1 PlayCalidad 720p",
         "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cDQuY29tL2dsb2JhbDEucGhwP3N0cmVhbT1ldmVudG9zNg=="
-      }
-    ]
-  },
-  {
-    "category": "F1",
-    "title": "F1: FI GP España, práctica #2 | Cámara On Board",
-    "time": "15:00",
-    "links": [
-      {
-        "label": "F1: FI GP España, práctica #2 | Cámara On Board\n15:00",
-        "url": "https://pelotalibretv.com#"
-      },
-      {
-        "label": "Disney+Calidad 720p",
-        "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cDQuY29tL2dsb2JhbDEucGhwP3N0cmVhbT1kaXNuZXkxMg=="
       }
     ]
   },
