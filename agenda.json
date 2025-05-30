@@ -1,35 +1,5 @@
 [
   {
-    "category": "TUR",
-    "title": "Süper Lig: Antalyaspor vs Trabzonspor",
-    "time": "17:00",
-    "links": [
-      {
-        "label": "Süper Lig: Antalyaspor vs Trabzonspor\n17:00",
-        "url": "https://pelotalibretv.com#"
-      },
-      {
-        "label": "Disney+Calidad 720p",
-        "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cDQuY29tL2dsb2JhbDEucGhwP3N0cmVhbT1kaXNuZXky"
-      }
-    ]
-  },
-  {
-    "category": "TUR",
-    "title": "Süper Lig: Galatasaray vs İstanbul Başakşehir",
-    "time": "17:00",
-    "links": [
-      {
-        "label": "Süper Lig: Galatasaray vs İstanbul Başakşehir\n17:00",
-        "url": "https://pelotalibretv.com#"
-      },
-      {
-        "label": "Disney+Calidad 720p",
-        "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW10cDQuY29tL2dsb2JhbDEucGhwP3N0cmVhbT1kaXNuZXkz"
-      }
-    ]
-  },
-  {
     "category": "MLB",
     "title": "MLB: Chicago Cubs vs Cincinnati Reds",
     "time": "18:20",
