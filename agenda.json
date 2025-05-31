@@ -1,35 +1,5 @@
 [
   {
-    "category": "TUR",
-    "title": "Süper Lig: Fenerbahçe vs Konyaspor",
-    "time": "13:00",
-    "links": [
-      {
-        "label": "Süper Lig: Fenerbahçe vs Konyaspor\n13:00",
-        "url": "https://pelotalibretv.com#"
-      },
-      {
-        "label": "Fox Sports 2Calidad 720p",
-        "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW0xOTZ0cC5jb20vZ2xvYmFsMS5waHA/c3RyZWFtPWZveDJhcg=="
-      }
-    ]
-  },
-  {
-    "category": "URU",
-    "title": "Segunda Division: Uruguay Montevideo vs Rampla Juniors",
-    "time": "13:00",
-    "links": [
-      {
-        "label": "Segunda Division: Uruguay Montevideo vs Rampla Juniors\n13:00",
-        "url": "https://pelotalibretv.com#"
-      },
-      {
-        "label": "Disney+Calidad 720p",
-        "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW0xOTZ0cC5jb20vZ2xvYmFsMS5waHA/c3RyZWFtPWRpc25leTI="
-      }
-    ]
-  },
-  {
     "category": "F1",
     "title": "F1: F1 GP España, clasificación",
     "time": "13:00",
@@ -53,51 +23,6 @@
       {
         "label": "Disney+Calidad 720p",
         "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW0xOTZ0cC5jb20vZ2xvYmFsMS5waHA/c3RyZWFtPWRpc25leTE0"
-      }
-    ]
-  },
-  {
-    "category": "F1",
-    "title": "F1: FI GP España, clasificación | On Board Colapinto | opción 2",
-    "time": "14:00",
-    "links": [
-      {
-        "label": "F1: FI GP España, clasificación | On Board Colapinto | opción 2\n14:00",
-        "url": "https://pelotalibretv.com#"
-      },
-      {
-        "label": "Disney+Calidad 720p",
-        "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW0xOTZ0cC5jb20vZ2xvYmFsMS5waHA/c3RyZWFtPWRpc25leTE1"
-      }
-    ]
-  },
-  {
-    "category": "F1",
-    "title": "F1: FI GP España, clasificación | On Board Verstappen | opción 2",
-    "time": "14:00",
-    "links": [
-      {
-        "label": "F1: FI GP España, clasificación | On Board Verstappen | opción 2\n14:00",
-        "url": "https://pelotalibretv.com#"
-      },
-      {
-        "label": "Disney+Calidad 720p",
-        "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW0xOTZ0cC5jb20vZ2xvYmFsMS5waHA/c3RyZWFtPWRpc25leTE2"
-      }
-    ]
-  },
-  {
-    "category": "F1",
-    "title": "F1: F1 GP España, clasificación | Cámara On Board",
-    "time": "14:00",
-    "links": [
-      {
-        "label": "F1: F1 GP España, clasificación | Cámara On Board\n14:00",
-        "url": "https://pelotalibretv.com#"
-      },
-      {
-        "label": "Disney+Calidad 720p",
-        "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW0xOTZ0cC5jb20vZ2xvYmFsMS5waHA/c3RyZWFtPWRpc25leTE3"
       }
     ]
   },
