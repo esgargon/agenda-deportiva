@@ -1,36 +1,6 @@
 [
   {
     "category": "MLB",
-    "title": "MLB: Chicago Cubs vs Cincinnati Reds",
-    "time": "18:20",
-    "links": [
-      {
-        "label": "MLB: Chicago Cubs vs Cincinnati Reds\n18:20",
-        "url": "https://pelotalibretv.com#"
-      },
-      {
-        "label": "MLBCalidad 720p",
-        "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW0xOTZ0cC5jb20vZ2xvYmFsMS5waHA/c3RyZWFtPW1sYjE="
-      }
-    ]
-  },
-  {
-    "category": "MLB",
-    "title": "MLB: Toronto Blue Jays vs Athletics",
-    "time": "19:00",
-    "links": [
-      {
-        "label": "MLB: Toronto Blue Jays vs Athletics\n19:00",
-        "url": "https://pelotalibretv.com#"
-      },
-      {
-        "label": "MLBCalidad 720p",
-        "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW0xOTZ0cC5jb20vZ2xvYmFsMS5waHA/c3RyZWFtPW1sYjI="
-      }
-    ]
-  },
-  {
-    "category": "MLB",
     "title": "MLB: Philadelphia Phillies vs Milwaukee Brewers",
     "time": "20:00",
     "links": [
@@ -161,21 +131,6 @@
       {
         "label": "MLBCalidad 720p",
         "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW0xOTZ0cC5jb20vZ2xvYmFsMS5waHA/c3RyZWFtPW1sYjEx"
-      }
-    ]
-  },
-  {
-    "category": "URU",
-    "title": "Primera Division: Plaza Colonia vs Liverpool",
-    "time": "20:30",
-    "links": [
-      {
-        "label": "Primera Division: Plaza Colonia vs Liverpool\n20:30",
-        "url": "https://pelotalibretv.com#"
-      },
-      {
-        "label": "Disney+Calidad 720p",
-        "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW0xOTZ0cC5jb20vZ2xvYmFsMS5waHA/c3RyZWFtPWRpc25leTY="
       }
     ]
   },
