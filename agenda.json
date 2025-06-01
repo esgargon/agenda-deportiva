@@ -1,21 +1,6 @@
 [
   {
     "category": "MLB",
-    "title": "MLB: Texas Rangers vs St. Louis Cardinals",
-    "time": "17:00",
-    "links": [
-      {
-        "label": "MLB: Texas Rangers vs St. Louis Cardinals\n17:00",
-        "url": "https://pelotalibretv.com#"
-      },
-      {
-        "label": "MLBCalidad 720p",
-        "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW0xOTZ0cC5jb20vZ2xvYmFsMS5waHA/c3RyZWFtPW1sYjE="
-      }
-    ]
-  },
-  {
-    "category": "MLB",
     "title": "MLB: Atlanta Braves vs Boston Red Sox",
     "time": "17:30",
     "links": [
@@ -116,40 +101,6 @@
       {
         "label": "MLBCalidad 720p",
         "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW0xOTZ0cC5jb20vZ2xvYmFsMS5waHA/c3RyZWFtPW1sYjg="
-      }
-    ]
-  },
-  {
-    "category": "ECUA",
-    "title": "Primera A: Mushuc Runa vs El Nacional",
-    "time": "18:00",
-    "links": [
-      {
-        "label": "Primera A: Mushuc Runa vs El Nacional\n18:00",
-        "url": "https://pelotalibretv.com#"
-      },
-      {
-        "label": "ECDFCalidad 720p",
-        "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW0xOTZ0cC5jb20vZ2xvYmFsMS5waHA/c3RyZWFtPWVjZGY="
-      }
-    ]
-  },
-  {
-    "category": "URU",
-    "title": "Primera División: Torque vs Nacional",
-    "time": "18:00",
-    "links": [
-      {
-        "label": "Primera División: Torque vs Nacional\n18:00",
-        "url": "https://pelotalibretv.com#"
-      },
-      {
-        "label": "GolTVCalidad 720p",
-        "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW0xOTZ0cC5jb20vZ2xvYmFsMS5waHA/c3RyZWFtPWdvbHR2"
-      },
-      {
-        "label": "Disney+Calidad 720p",
-        "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW0xOTZ0cC5jb20vZ2xvYmFsMS5waHA/c3RyZWFtPWRpc25leTM="
       }
     ]
   },
