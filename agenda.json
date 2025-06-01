@@ -1,50 +1,5 @@
 [
   {
-    "category": "TUR",
-    "title": "Süper Lig: Bodrumspor vs Beşiktaş",
-    "time": "16:00",
-    "links": [
-      {
-        "label": "Süper Lig: Bodrumspor vs Beşiktaş\n16:00",
-        "url": "https://pelotalibretv.com#"
-      },
-      {
-        "label": "Disney+Calidad 720p",
-        "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW0xOTZ0cC5jb20vZ2xvYmFsMS5waHA/c3RyZWFtPWRpc25leTI="
-      }
-    ]
-  },
-  {
-    "category": "AR",
-    "title": "Copa Argentina: Estudiantes vs Aldosivi",
-    "time": "16:10",
-    "links": [
-      {
-        "label": "Copa Argentina: Estudiantes vs Aldosivi\n16:10",
-        "url": "https://pelotalibretv.com#"
-      },
-      {
-        "label": "TyC SportsCalidad 720p",
-        "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW0xOTZ0cC5jb20vZ2xvYmFsMS5waHA/c3RyZWFtPXR5Y3Nwb3J0cw=="
-      }
-    ]
-  },
-  {
-    "category": "ES",
-    "title": "Segunda División: Levante vs Eibar",
-    "time": "16:30",
-    "links": [
-      {
-        "label": "Segunda División: Levante vs Eibar\n16:30",
-        "url": "https://pelotalibretv.com#"
-      },
-      {
-        "label": "LaLiga HypermotionCalidad 720p",
-        "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW0xOTZ0cC5jb20vZ2xvYmFsMS5waHA/c3RyZWFtPWxhbGlnYWh5cGVybW90aW9u"
-      }
-    ]
-  },
-  {
     "category": "INDYCAR",
     "title": "IndyCar Series: IndyCar Streets of Detroit",
     "time": "16:30",
@@ -329,7 +284,7 @@
       },
       {
         "label": "Tigo SportsCalidad 720p",
-        "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW0xOTZ0cC5jb20vZ2xvYmFsMS5waHA/c3RyZWFtPWV2ZW50b3Mx"
+        "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW0xOTZ0cC5jb20vZ2xvYmFsMS5waHA/c3RyZWFtPWV2ZW50b3My"
       }
     ]
   },
@@ -359,7 +314,7 @@
       },
       {
         "label": "MAXCalidad 720p",
-        "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW0xOTZ0cC5jb20vZ2xvYmFsMS5waHA/c3RyZWFtPW1heDE="
+        "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW0xOTZ0cC5jb20vZ2xvYmFsMS5waHA/c3RyZWFtPW1heDI="
       }
     ]
   },
