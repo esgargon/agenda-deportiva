@@ -1,21 +1,6 @@
 [
   {
     "category": "MLB",
-    "title": "MLB: Cincinnati Reds vs Milwaukee Brewers",
-    "time": "16:40",
-    "links": [
-      {
-        "label": "MLB: Cincinnati Reds vs Milwaukee Brewers\n16:40",
-        "url": "https://pelotalibretv.com#"
-      },
-      {
-        "label": "MLBCalidad 720p",
-        "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW0xOTZ0cC5jb20vZ2xvYmFsMS5waHA/c3RyZWFtPW1sYjI="
-      }
-    ]
-  },
-  {
-    "category": "MLB",
     "title": "MLB: Boston Red Sox vs Los Angeles Angels",
     "time": "17:30",
     "links": [
@@ -26,21 +11,6 @@
       {
         "label": "MLBCalidad 720p",
         "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW0xOTZ0cC5jb20vZ2xvYmFsMS5waHA/c3RyZWFtPW1sYjM="
-      }
-    ]
-  },
-  {
-    "category": "URU",
-    "title": "Segunda División: Fénix vs Uruguay Montevideo",
-    "time": "18:00",
-    "links": [
-      {
-        "label": "Segunda División: Fénix vs Uruguay Montevideo\n18:00",
-        "url": "https://pelotalibretv.com#"
-      },
-      {
-        "label": "Disney+Calidad 720p",
-        "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW0xOTZ0cC5jb20vZ2xvYmFsMS5waHA/c3RyZWFtPWRpc25leTQ="
       }
     ]
   },
