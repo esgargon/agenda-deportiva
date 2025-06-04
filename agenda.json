@@ -1,39 +1,5 @@
 [
   {
-    "category": "MLB",
-    "title": "MLB: Boston Red Sox vs Los Angeles Angels",
-    "time": "17:30",
-    "links": [
-      {
-        "label": "MLB: Boston Red Sox vs Los Angeles Angels\n17:30",
-        "url": "https://pelotalibretv.com#"
-      },
-      {
-        "label": "MLBCalidad 720p",
-        "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW0xOTZ0cC5jb20vZ2xvYmFsMS5waHA/c3RyZWFtPW1sYjM="
-      }
-    ]
-  },
-  {
-    "category": "UEFA_NATIONS",
-    "title": "Liga de las Naciones de la UEFA: Alemania vs Portugal",
-    "time": "19:00",
-    "links": [
-      {
-        "label": "Liga de las Naciones de la UEFA: Alemania vs Portugal\n19:00",
-        "url": "https://pelotalibretv.com#"
-      },
-      {
-        "label": "ESPN 1 ARCalidad 720p",
-        "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW0xOTZ0cC5jb20vZ2xvYmFsMS5waHA/c3RyZWFtPWV2ZW50b3M4"
-      },
-      {
-        "label": "ESPN 1 PECalidad 720p",
-        "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW0xOTZ0cC5jb20vZ2xvYmFsMS5waHA/c3RyZWFtPWVzcG4="
-      }
-    ]
-  },
-  {
     "category": "FUT",
     "title": "The Soccer Tournament: Hashtag United vs Pasha Luxury",
     "time": "20:30",
