@@ -1,21 +1,6 @@
 [
   {
     "category": "MLB",
-    "title": "MLB: St. Louis Cardinals vs Kansas City Royals",
-    "time": "17:40",
-    "links": [
-      {
-        "label": "MLB: St. Louis Cardinals vs Kansas City Royals\n17:40",
-        "url": "https://pelotalibretv.com#"
-      },
-      {
-        "label": "MLBCalidad 720p",
-        "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW0xOTZ0cC5jb20vZ2xvYmFsMS5waHA/c3RyZWFtPW1sYjI="
-      }
-    ]
-  },
-  {
-    "category": "MLB",
     "title": "MLB: Chicago White Sox vs Detroit Tigers",
     "time": "18:10",
     "links": [
@@ -26,29 +11,6 @@
       {
         "label": "MLBCalidad 720p",
         "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW0xOTZ0cC5jb20vZ2xvYmFsMS5waHA/c3RyZWFtPW1sYjM="
-      }
-    ]
-  },
-  {
-    "category": "UEFA_NATIONS",
-    "title": "Liga de las Naciones de la UEFA: España vs Francia",
-    "time": "19:00",
-    "links": [
-      {
-        "label": "Liga de las Naciones de la UEFA: España vs Francia\n19:00",
-        "url": "https://pelotalibretv.com#"
-      },
-      {
-        "label": "ESPN 1 ARCalidad 720p",
-        "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW0xOTZ0cC5jb20vZ2xvYmFsMS5waHA/c3RyZWFtPWV2ZW50b3M4"
-      },
-      {
-        "label": "ESPN 1 PECalidad 720p",
-        "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW0xOTZ0cC5jb20vZ2xvYmFsMS5waHA/c3RyZWFtPWVzcG4="
-      },
-      {
-        "label": "Disney+Calidad 720p",
-        "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW0xOTZ0cC5jb20vZ2xvYmFsMS5waHA/c3RyZWFtPWRpc25leTE1"
       }
     ]
   },
