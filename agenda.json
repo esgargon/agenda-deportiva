@@ -1,24 +1,5 @@
 [
   {
-    "category": "URU",
-    "title": "Primera División: Liverpool vs Cerro Largo",
-    "time": "14:00",
-    "links": [
-      {
-        "label": "Primera División: Liverpool vs Cerro Largo\n14:00",
-        "url": "https://pelotalibretv.com#"
-      },
-      {
-        "label": "Disney+Calidad 720p",
-        "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW0xOTZ0cC5jb20vZ2xvYmFsMS5waHA/c3RyZWFtPWRpc25leTM="
-      },
-      {
-        "label": "GOLTVCalidad 720p",
-        "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW0xOTZ0cC5jb20vZ2xvYmFsMS5waHA/c3RyZWFtPWdvbHR2"
-      }
-    ]
-  },
-  {
     "category": "FUT",
     "title": "Clasificación para la Copa Mundial: Malta vs Lituania",
     "time": "16:00",
@@ -53,21 +34,6 @@
       {
         "label": "Disney+Calidad 720p",
         "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW0xOTZ0cC5jb20vZ2xvYmFsMS5waHA/c3RyZWFtPWRpc25leTU="
-      }
-    ]
-  },
-  {
-    "category": "CH",
-    "title": "Copa Chile: Magallanes vs Ñublense",
-    "time": "16:30",
-    "links": [
-      {
-        "label": "Copa Chile: Magallanes vs Ñublense\n16:30",
-        "url": "https://pelotalibretv.com#"
-      },
-      {
-        "label": "MAXCalidad 720p",
-        "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW0xOTZ0cC5jb20vZ2xvYmFsMS5waHA/c3RyZWFtPW1heA=="
       }
     ]
   },
@@ -520,21 +486,6 @@
       {
         "label": "Disney+Calidad 720p",
         "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW0xOTZ0cC5jb20vZ2xvYmFsMS5waHA/c3RyZWFtPWRpc25leTEz"
-      }
-    ]
-  },
-  {
-    "category": "CH",
-    "title": "Copa Chile: Deportes Concepción vs Unión Española",
-    "time": "23:00",
-    "links": [
-      {
-        "label": "Copa Chile: Deportes Concepción vs Unión Española\n23:00",
-        "url": "https://pelotalibretv.com#"
-      },
-      {
-        "label": "MAXCalidad 720p",
-        "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW0xOTZ0cC5jb20vZ2xvYmFsMS5waHA/c3RyZWFtPW1heDM="
       }
     ]
   },
