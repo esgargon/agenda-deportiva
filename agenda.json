@@ -77,7 +77,11 @@
         "url": "https://pelotalibretv.com#"
       },
       {
-        "label": "ESPN 1Calidad 720p",
+        "label": "ESPN 1 ARCalidad 720p",
+        "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW0xOTZ0cC5jb20vZ2xvYmFsMS5waHA/c3RyZWFtPWV2ZW50b3M4"
+      },
+      {
+        "label": "ESPN 1 PECalidad 720p",
         "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW0xOTZ0cC5jb20vZ2xvYmFsMS5waHA/c3RyZWFtPWVzcG4="
       },
       {
@@ -233,6 +237,10 @@
       {
         "label": "Clasificación para la Copa Mundial: Finlandia vs Países Bajos\n18:40",
         "url": "https://pelotalibretv.com#"
+      },
+      {
+        "label": "ESPN 1 ARCalidad 720p",
+        "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW0xOTZ0cC5jb20vZ2xvYmFsMS5waHA/c3RyZWFtPWV2ZW50b3M4"
       },
       {
         "label": "ESPN 1Calidad 720p",
