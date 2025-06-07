@@ -181,6 +181,21 @@
     ]
   },
   {
+    "category": "BOX",
+    "title": "BOXEO: Callum Simpson vs. Iván Zucco",
+    "time": "18:00",
+    "links": [
+      {
+        "label": "BOXEO: Callum Simpson vs. Iván Zucco\n18:00",
+        "url": "https://pelotalibretv.com#"
+      },
+      {
+        "label": "Disney+Calidad 720p",
+        "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW0xOTZ0cC5jb20vZ2xvYmFsMS5waHA/c3RyZWFtPWRpc25leTQ="
+      }
+    ]
+  },
+  {
     "category": "MLB",
     "title": "MLB: Minnesota Twins vs Toronto Blue Jays",
     "time": "18:10",
@@ -286,21 +301,6 @@
       {
         "label": "LaLiga HypermotionCalidad 720p",
         "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW0xOTZ0cC5jb20vZ2xvYmFsMS5waHA/c3RyZWFtPWxhbGlnYWh5cGVybW90aW9u"
-      }
-    ]
-  },
-  {
-    "category": "COL",
-    "title": "Primera B de Colombia: Tigres vs Internacional Palmira",
-    "time": "19:00",
-    "links": [
-      {
-        "label": "Primera B de Colombia: Tigres vs Internacional Palmira\n19:00",
-        "url": "https://pelotalibretv.com#"
-      },
-      {
-        "label": "Win SportsCalidad 720p",
-        "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW0xOTZ0cC5jb20vZ2xvYmFsMS5waHA/c3RyZWFtPXdpbnNwb3J0cw=="
       }
     ]
   },
@@ -516,6 +516,21 @@
     ]
   },
   {
+    "category": "UFC",
+    "title": "UFC: Merab Dvalishvili vs. Sean O'Malley",
+    "time": "22:00",
+    "links": [
+      {
+        "label": "UFC: Merab Dvalishvili vs. Sean O'Malley\n22:00",
+        "url": "https://pelotalibretv.com#"
+      },
+      {
+        "label": "Disney+Calidad 720p",
+        "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW0xOTZ0cC5jb20vZ2xvYmFsMS5waHA/c3RyZWFtPWRpc25leTE2"
+      }
+    ]
+  },
+  {
     "category": "URU",
     "title": "Primera División: Peñarol vs Defensor Sporting",
     "time": "23:00",
@@ -597,8 +612,8 @@
         "url": "https://pelotalibretv.com#"
       },
       {
-        "label": "Fox Sports 1 MXCalidad 720p",
-        "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW0xOTZ0cC5jb20vZ2xvYmFsMS5waHA/c3RyZWFtPWZveHNwb3J0c214"
+        "label": "Disney+Calidad 720p",
+        "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW0xOTZ0cC5jb20vZ2xvYmFsMS5waHA/c3RyZWFtPWRpc25leTE3"
       }
     ]
   },
