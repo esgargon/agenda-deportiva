@@ -1,36 +1,6 @@
 [
   {
     "category": "MLB",
-    "title": "MLB: San Francisco Giants vs Atlanta Braves",
-    "time": "20:00",
-    "links": [
-      {
-        "label": "MLB: San Francisco Giants vs Atlanta Braves\n20:00",
-        "url": "https://pelotalibretv.com#"
-      },
-      {
-        "label": "MLBCalidad 720p",
-        "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW0xOTZ0cC5jb20vZ2xvYmFsMS5waHA/c3RyZWFtPW1sYjU="
-      }
-    ]
-  },
-  {
-    "category": "MLB",
-    "title": "MLB: Washington Nationals vs Texas Rangers",
-    "time": "20:00",
-    "links": [
-      {
-        "label": "MLB: Washington Nationals vs Texas Rangers\n20:00",
-        "url": "https://pelotalibretv.com#"
-      },
-      {
-        "label": "MLBCalidad 720p",
-        "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW0xOTZ0cC5jb20vZ2xvYmFsMS5waHA/c3RyZWFtPW1sYjY="
-      }
-    ]
-  },
-  {
-    "category": "MLB",
     "title": "MLB: Tampa Bay Rays vs Miami Marlins",
     "time": "20:10",
     "links": [
@@ -86,21 +56,6 @@
       {
         "label": "MLBCalidad 720p",
         "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW0xOTZ0cC5jb20vZ2xvYmFsMS5waHA/c3RyZWFtPW1sYjg="
-      }
-    ]
-  },
-  {
-    "category": "COL",
-    "title": "Primera B de Colombia: Jaguares de Córdoba vs Real Cartagena",
-    "time": "21:00",
-    "links": [
-      {
-        "label": "Primera B de Colombia: Jaguares de Córdoba vs Real Cartagena\n21:00",
-        "url": "https://pelotalibretv.com#"
-      },
-      {
-        "label": "Win SportsCalidad 720p",
-        "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW0xOTZ0cC5jb20vZ2xvYmFsMS5waHA/c3RyZWFtPXdpbnNwb3J0cw=="
       }
     ]
   },
