@@ -1,99 +1,5 @@
 [
   {
-    "category": "BOX",
-    "title": "BOXEO: Callum Simpson vs. Iván Zucco",
-    "time": "18:00",
-    "links": [
-      {
-        "label": "BOXEO: Callum Simpson vs. Iván Zucco\n18:00",
-        "url": "https://pelotalibretv.com#"
-      },
-      {
-        "label": "Disney+Calidad 720p",
-        "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW0xOTZ0cC5jb20vZ2xvYmFsMS5waHA/c3RyZWFtPWRpc25leTQ="
-      }
-    ]
-  },
-  {
-    "category": "MLB",
-    "title": "MLB: Minnesota Twins vs Toronto Blue Jays",
-    "time": "18:10",
-    "links": [
-      {
-        "label": "MLB: Minnesota Twins vs Toronto Blue Jays\n18:10",
-        "url": "https://pelotalibretv.com#"
-      },
-      {
-        "label": "MLBCalidad 720p",
-        "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW0xOTZ0cC5jb20vZ2xvYmFsMS5waHA/c3RyZWFtPW1sYjI="
-      }
-    ]
-  },
-  {
-    "category": "MLB",
-    "title": "MLB: St. Louis Cardinals vs Los Angeles Dodgers",
-    "time": "18:10",
-    "links": [
-      {
-        "label": "MLB: St. Louis Cardinals vs Los Angeles Dodgers\n18:10",
-        "url": "https://pelotalibretv.com#"
-      },
-      {
-        "label": "MLBCalidad 720p",
-        "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW0xOTZ0cC5jb20vZ2xvYmFsMS5waHA/c3RyZWFtPW1sYjM="
-      }
-    ]
-  },
-  {
-    "category": "FUT",
-    "title": "Amistoso: EE. UU. vs Turquía",
-    "time": "19:30",
-    "links": [
-      {
-        "label": "Amistoso: EE. UU. vs Turquía\n19:30",
-        "url": "https://pelotalibretv.com#"
-      },
-      {
-        "label": "Universo USACalidad 720p",
-        "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW0xOTZ0cC5jb20vZ2xvYmFsMS5waHA/c3RyZWFtPXVuaXZlcnNvX3VzYQ=="
-      },
-      {
-        "label": "Peacock TVCalidad 720p",
-        "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW0xOTZ0cC5jb20vZ2xvYmFsMS5waHA/c3RyZWFtPXBlYWNvY2sx"
-      }
-    ]
-  },
-  {
-    "category": "FUT",
-    "title": "Amistoso: Canadá vs Ucrania",
-    "time": "19:30",
-    "links": [
-      {
-        "label": "Amistoso: Canadá vs Ucrania\n19:30",
-        "url": "https://pelotalibretv.com#"
-      },
-      {
-        "label": "Dsports 2Calidad 720p",
-        "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW0xOTZ0cC5jb20vZ2xvYmFsMS5waHA/c3RyZWFtPWRzcG9ydHMy"
-      }
-    ]
-  },
-  {
-    "category": "MLB",
-    "title": "MLB: Pittsburgh Pirates vs Philadelphia Phillies",
-    "time": "20:00",
-    "links": [
-      {
-        "label": "MLB: Pittsburgh Pirates vs Philadelphia Phillies\n20:00",
-        "url": "https://pelotalibretv.com#"
-      },
-      {
-        "label": "MLBCalidad 720p",
-        "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW0xOTZ0cC5jb20vZ2xvYmFsMS5waHA/c3RyZWFtPW1sYjQ="
-      }
-    ]
-  },
-  {
     "category": "MLB",
     "title": "MLB: San Francisco Giants vs Atlanta Braves",
     "time": "20:00",
@@ -105,29 +11,6 @@
       {
         "label": "MLBCalidad 720p",
         "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW0xOTZ0cC5jb20vZ2xvYmFsMS5waHA/c3RyZWFtPW1sYjU="
-      }
-    ]
-  },
-  {
-    "category": "FUT",
-    "title": "Amistoso: México vs Suiza",
-    "time": "20:00",
-    "links": [
-      {
-        "label": "Amistoso: México vs Suiza\n20:00",
-        "url": "https://pelotalibretv.com#"
-      },
-      {
-        "label": "Canal 5 MXCalidad 720p",
-        "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW0xOTZ0cC5jb20vZ2xvYmFsMS5waHA/c3RyZWFtPWNhbmFsNW14"
-      },
-      {
-        "label": "TUDN USACalidad 720p",
-        "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW0xOTZ0cC5jb20vZ2xvYmFsMS5waHA/c3RyZWFtPXR1ZG5fdXNh"
-      },
-      {
-        "label": "Fox Deportes USACalidad 720p",
-        "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW0xOTZ0cC5jb20vZ2xvYmFsMS5waHA/c3RyZWFtPWZveF9kZXBvcnRlc191c2E="
       }
     ]
   },
@@ -203,25 +86,6 @@
       {
         "label": "MLBCalidad 720p",
         "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW0xOTZ0cC5jb20vZ2xvYmFsMS5waHA/c3RyZWFtPW1sYjg="
-      }
-    ]
-  },
-  {
-    "category": "URU",
-    "title": "Primera División: Wanderers vs Plaza Colonia",
-    "time": "20:30",
-    "links": [
-      {
-        "label": "Primera División: Wanderers vs Plaza Colonia\n20:30",
-        "url": "https://pelotalibretv.com#"
-      },
-      {
-        "label": "GolTVCalidad 720p",
-        "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW0xOTZ0cC5jb20vZ2xvYmFsMS5waHA/c3RyZWFtPWdvbHR2"
-      },
-      {
-        "label": "Disney+Calidad 720p",
-        "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW0xOTZ0cC5jb20vZ2xvYmFsMS5waHA/c3RyZWFtPWRpc25leTEy"
       }
     ]
   },
