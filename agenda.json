@@ -1,39 +1,5 @@
 [
   {
-    "category": "ATP",
-    "title": "ATP: Jannik Sinner (ITA]vs. Carlos Alcaraz (ESP](Final Masculina]",
-    "time": "12:30",
-    "links": [
-      {
-        "label": "ATP: Jannik Sinner (ITA]vs. Carlos Alcaraz (ESP](Final Masculina]\n12:30",
-        "url": "https://pelotalibretv.com#"
-      },
-      {
-        "label": "Disney+Calidad 720p",
-        "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW0xOTZ0cC5jb20vZ2xvYmFsMS5waHA/c3RyZWFtPWRpc25leTM="
-      }
-    ]
-  },
-  {
-    "category": "URU",
-    "title": "Primera División: Progreso vs Miramar Misiones",
-    "time": "14:00",
-    "links": [
-      {
-        "label": "Primera División: Progreso vs Miramar Misiones\n14:00",
-        "url": "https://pelotalibretv.com#"
-      },
-      {
-        "label": "Disney+Calidad 720p",
-        "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW0xOTZ0cC5jb20vZ2xvYmFsMS5waHA/c3RyZWFtPWRpc25leTU="
-      },
-      {
-        "label": "GOLTVCalidad 720p",
-        "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW0xOTZ0cC5jb20vZ2xvYmFsMS5waHA/c3RyZWFtPWdvbHR2"
-      }
-    ]
-  },
-  {
     "category": "FUT",
     "title": "Amistoso: Georgia vs Islas de Cabo Verde",
     "time": "16:00",
@@ -276,16 +242,24 @@
   },
   {
     "category": "UEFA_NATIONS",
-    "title": "Liga de las Naciones de la UEFA: Portugal vs España | FINAL",
+    "title": "Liga de las Naciones de la UEFA: Portugal vs España | FINAL - ES - EN - BR",
     "time": "19:00",
     "links": [
       {
-        "label": "Liga de las Naciones de la UEFA: Portugal vs España | FINAL\n19:00",
+        "label": "Liga de las Naciones de la UEFA: Portugal vs España | FINAL - ES - EN - BR\n19:00",
         "url": "https://pelotalibretv.com#"
       },
       {
         "label": "ESPN 1Calidad 720p",
         "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW0xOTZ0cC5jb20vZ2xvYmFsMS5waHA/c3RyZWFtPWVzcG4="
+      },
+      {
+        "label": "Fox 1 USACalidad 720p",
+        "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW0xOTZ0cC5jb20vZ2xvYmFsMS5waHA/c3RyZWFtPWZveF8xX3VzYQ=="
+      },
+      {
+        "label": "ESPN 1 BRCalidad 720p",
+        "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW0xOTZ0cC5jb20vZ2xvYmFsMS5waHA/c3RyZWFtPWVzcG4xYnI="
       }
     ]
   },
