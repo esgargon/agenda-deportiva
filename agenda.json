@@ -1,43 +1,5 @@
 [
   {
-    "category": "UEFA_NATIONS",
-    "title": "Liga de las Naciones de la UEFA: Portugal vs España | FINAL - ES - EN - BR",
-    "time": "19:00",
-    "links": [
-      {
-        "label": "Liga de las Naciones de la UEFA: Portugal vs España | FINAL - ES - EN - BR\n19:00",
-        "url": "https://pelotalibretv.com#"
-      },
-      {
-        "label": "ESPN 1Calidad 720p",
-        "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW0xOTZ0cC5jb20vZ2xvYmFsMS5waHA/c3RyZWFtPWVzcG4="
-      },
-      {
-        "label": "Fox 1 USACalidad 720p",
-        "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW0xOTZ0cC5jb20vZ2xvYmFsMS5waHA/c3RyZWFtPWZveF8xX3VzYQ=="
-      },
-      {
-        "label": "ESPN 1 BRCalidad 720p",
-        "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW0xOTZ0cC5jb20vZ2xvYmFsMS5waHA/c3RyZWFtPWVzcG4xYnI="
-      }
-    ]
-  },
-  {
-    "category": "MLB",
-    "title": "MLB: Colorado Rockies vs New York Mets",
-    "time": "19:10",
-    "links": [
-      {
-        "label": "MLB: Colorado Rockies vs New York Mets\n19:10",
-        "url": "https://pelotalibretv.com#"
-      },
-      {
-        "label": "MLBCalidad 720p",
-        "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW0xOTZ0cC5jb20vZ2xvYmFsMS5waHA/c3RyZWFtPW1sYjEx"
-      }
-    ]
-  },
-  {
     "category": "MLB",
     "title": "MLB: Los Angeles Angels vs Seattle Mariners",
     "time": "20:00",
