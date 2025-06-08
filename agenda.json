@@ -15,7 +15,7 @@
     ]
   },
   {
-    "category": "FUT",
+    "category": "UEFA_NATIONS",
     "title": "Liga de las Naciones de la UEFA: Alemania vs Francia",
     "time": "13:00",
     "links": [
@@ -294,21 +294,17 @@
     ]
   },
   {
-    "category": "FUT",
-    "title": "Liga de las Naciones de la UEFA: Portugal vs España",
+    "category": "UEFA_NATIONS",
+    "title": "Liga de las Naciones de la UEFA: Portugal vs España | FINAL",
     "time": "19:00",
     "links": [
       {
-        "label": "Liga de las Naciones de la UEFA: Portugal vs España\n19:00",
+        "label": "Liga de las Naciones de la UEFA: Portugal vs España | FINAL\n19:00",
         "url": "https://pelotalibretv.com#"
       },
       {
         "label": "ESPN 1Calidad 720p",
         "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW0xOTZ0cC5jb20vZ2xvYmFsMS5waHA/c3RyZWFtPWVzcG4="
-      },
-      {
-        "label": "Disney+Calidad 720p",
-        "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW0xOTZ0cC5jb20vZ2xvYmFsMS5waHA/c3RyZWFtPWRpc25leTEw"
       }
     ]
   },
