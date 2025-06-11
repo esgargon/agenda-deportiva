@@ -1,35 +1,5 @@
 [
   {
-    "category": "FUT",
-    "title": "Amistoso: México vs Turquía",
-    "time": "00:30",
-    "links": [
-      {
-        "label": "Amistoso: México vs Turquía\n00:30",
-        "url": "https://pelotalibretv.com#"
-      },
-      {
-        "label": "Canal 5 MXCalidad 720p",
-        "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW0xOTZ0cC5jb20vZ2xvYmFsMS5waHA/c3RyZWFtPWNhbmFsNW14"
-      }
-    ]
-  },
-  {
-    "category": "MLB",
-    "title": "MLB: Colorado Rockies vs San Francisco Giants",
-    "time": "00:40",
-    "links": [
-      {
-        "label": "MLB: Colorado Rockies vs San Francisco Giants\n00:40",
-        "url": "https://pelotalibretv.com#"
-      },
-      {
-        "label": "MLBCalidad 720p",
-        "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW0xOTZ0cC5jb20vZ2xvYmFsMS5waHA/c3RyZWFtPW1sYjEy"
-      }
-    ]
-  },
-  {
     "category": "MLB",
     "title": "MLB: Los Angeles Angels vs Athletics",
     "time": "01:30",
