@@ -1,50 +1,5 @@
 [
   {
-    "category": "MLB",
-    "title": "MLB: Arizona Diamondbacks vs Seattle Mariners",
-    "time": "19:40",
-    "links": [
-      {
-        "label": "MLB: Arizona Diamondbacks vs Seattle Mariners\n19:40",
-        "url": "https://pelotalibretv.com#"
-      },
-      {
-        "label": "MLBCalidad 720p",
-        "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW0xOTZ0cC5jb20vZ2xvYmFsMS5waHA/c3RyZWFtPW1sYjY="
-      }
-    ]
-  },
-  {
-    "category": "MLB",
-    "title": "MLB: Los Angeles Angels vs Athletics",
-    "time": "20:00",
-    "links": [
-      {
-        "label": "MLB: Los Angeles Angels vs Athletics\n20:00",
-        "url": "https://pelotalibretv.com#"
-      },
-      {
-        "label": "MLBCalidad 720p",
-        "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW0xOTZ0cC5jb20vZ2xvYmFsMS5waHA/c3RyZWFtPW1sYjc="
-      }
-    ]
-  },
-  {
-    "category": "MLB",
-    "title": "MLB: San Diego Padres vs Los Angeles Dodgers",
-    "time": "20:10",
-    "links": [
-      {
-        "label": "MLB: San Diego Padres vs Los Angeles Dodgers\n20:10",
-        "url": "https://pelotalibretv.com#"
-      },
-      {
-        "label": "MLBCalidad 720p",
-        "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW0xOTZ0cC5jb20vZ2xvYmFsMS5waHA/c3RyZWFtPW1sYjg="
-      }
-    ]
-  },
-  {
     "category": "CH",
     "title": "Copa Chile: Universidad Chile vs Curicó Unido",
     "time": "22:00",
@@ -55,7 +10,7 @@
       },
       {
         "label": "MAXCalidad 720p",
-        "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW0xOTZ0cC5jb20vZ2xvYmFsMS5waHA/c3RyZWFtPW1heDE="
+        "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW0xOTZ0cC5jb20vZ2xvYmFsMS5waHA/c3RyZWFtPW1sczFlcw="
       }
     ]
   },
