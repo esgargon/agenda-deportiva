@@ -237,6 +237,21 @@
     ]
   },
   {
+    "category": "COL",
+    "title": "Liga Colombiana: America vs Tolima",
+    "time": "23:20",
+    "links": [
+      {
+        "label": "Liga Colombiana: America vs Tolima\n23:20",
+        "url": "https://pelotalibretv.com#"
+      },
+      {
+        "label": "Win Sports +Calidad 720p",
+        "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW0xOTZ0cC5jb20vZ2xvYmFsMS5waHA/c3RyZWFtPXdpbnBsdXM="
+      }
+    ]
+  },
+  {
     "category": "MLB",
     "title": "MLB: Kansas City Royals vs New York Yankees",
     "time": "23:40",
@@ -342,6 +357,21 @@
       {
         "label": "PremiereCalidad 720p",
         "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW0xOTZ0cC5jb20vZ2xvYmFsMS5waHA/c3RyZWFtPWV2ZW50b3M0"
+      }
+    ]
+  },
+  {
+    "category": "COL",
+    "title": "Liga Colombiana: Santa fe vs Nacional",
+    "time": "01:20",
+    "links": [
+      {
+        "label": "Liga Colombiana: Santa fe vs Nacional\n01:20",
+        "url": "https://pelotalibretv.com#"
+      },
+      {
+        "label": "Win Sports +Calidad 720p",
+        "url": "https://pelotalibretv.com/embed/eventos.html?r=aHR0cHM6Ly9zdHJlYW0xOTZ0cC5jb20vZ2xvYmFsMS5waHA/c3RyZWFtPXdpbnBsdXM="
       }
     ]
   }
